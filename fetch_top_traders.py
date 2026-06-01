@@ -17,6 +17,7 @@ Tune via env vars:
   HL_OUT_DIR  output directory                (default: ./snapshots)
 """
 
+import csv
 import json
 import os
 import sys
@@ -144,7 +145,56 @@ def main():
     with open(out_path, "w") as f:
         json.dump(snapshot, f, indent=2)
 
+    write_csvs(snapshot)
     print(f"Wrote {out_path}  ({len(traders)} traders, ranked by {WINDOW} PnL)")
+
+
+def write_csvs(snapshot):
+    """Emit two flat, overwrite-in-place CSVs for live spreadsheet import."""
+    root = os.path.dirname(OUT_DIR.rstrip("/")) or "."
+    fetched = snapshot["fetchedAt"]
+
+    # 1) one row per trader (summary)
+    with open(os.path.join(root, "latest_traders.csv"), "w", newline="") as f:
+        w = csv.writer(f)
+        w.writerow([
+            "fetchedAt", "rank", "address", "displayName", "accountValue",
+            "pnlDay", "pnlWeek", "pnlMonth", "pnlAllTime", "roiAllTime",
+            "openPositions",
+        ])
+        for t in snapshot["traders"]:
+            p = t["pnl"]
+            w.writerow([
+                fetched, t["rank"], t["address"], t.get("displayName") or "",
+                t.get("accountValue"),
+                p["day"]["pnl"], p["week"]["pnl"], p["month"]["pnl"],
+                p["allTime"]["pnl"], p["allTime"]["roi"],
+                len(t["openPositions"]),
+            ])
+
+    # 2) one row per open position
+    with open(os.path.join(root, "latest_positions.csv"), "w", newline="") as f:
+        w = csv.writer(f)
+        w.writerow([
+            "fetchedAt", "rank", "address", "displayName", "coin", "side",
+            "size", "entryPx", "positionValue", "unrealizedPnl",
+            "returnOnEquity", "leverage", "liquidationPx",
+        ])
+        for t in snapshot["traders"]:
+            for pos in t["openPositions"]:
+                try:
+                    szi = float(pos.get("szi") or 0)
+                except ValueError:
+                    szi = 0
+                lev = pos.get("leverage") or {}
+                w.writerow([
+                    fetched, t["rank"], t["address"], t.get("displayName") or "",
+                    pos.get("coin"), "long" if szi >= 0 else "short",
+                    pos.get("szi"), pos.get("entryPx"), pos.get("positionValue"),
+                    pos.get("unrealizedPnl"), pos.get("returnOnEquity"),
+                    lev.get("value") if isinstance(lev, dict) else lev,
+                    pos.get("liquidationPx"),
+                ])
 
 
 if __name__ == "__main__":
