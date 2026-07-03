@@ -1,0 +1,4623 @@
+{
+  "fetchedAt": "2026-07-03T07:29:34.791233+00:00",
+  "source": "hyperliquid-native",
+  "rankedBy": "allTime",
+  "topN": 10,
+  "traders": [
+    {
+      "rank": 1,
+      "address": "0x4ec8fe22a531a96c8a846aaf5cbef73202649a80",
+      "displayName": null,
+      "accountValue": "346558006.6789860129",
+      "pnl": {
+        "day": {
+          "pnl": "13139773.4773290008",
+          "roi": "0.0394092829",
+          "vlm": "0.0"
+        },
+        "week": {
+          "pnl": "4580924.2088240003",
+          "roi": "0.0133954129",
+          "vlm": "0.0"
+        },
+        "month": {
+          "pnl": "0.0",
+          "roi": "0.0",
+          "vlm": "0.0"
+        },
+        "allTime": {
+          "pnl": "566599761.4889860153",
+          "roi": "33626.3979487152",
+          "vlm": "15999.34"
+        }
+      },
+      "openPositions": [],
+      "recentFills": [
+        {
+          "coin": "@107",
+          "px": "32.1",
+          "sz": "51.34",
+          "side": "B",
+          "time": 1772701892728,
+          "startPosition": "450.739632",
+          "dir": "Buy",
+          "closedPnl": "0.0",
+          "hash": "0xeadd6015e8e84910ec57043679966302046700fb83eb67e28ea60b68a7ec22fb",
+          "oid": 338985234243,
+          "crossed": false,
+          "fee": "0.020536",
+          "tid": 423803102343195,
+          "feeToken": "HYPE",
+          "twapId": null
+        },
+        {
+          "coin": "@107",
+          "px": "32.1",
+          "sz": "98.42",
+          "side": "B",
+          "time": 1772701892728,
+          "startPosition": "352.359",
+          "dir": "Buy",
+          "closedPnl": "0.0",
+          "hash": "0x853672dfb5c5c41986b0043679966302046500c550c8e2eb28ff1e3274c99e04",
+          "oid": 338985234243,
+          "crossed": false,
+          "fee": "0.039368",
+          "tid": 641160250760094,
+          "feeToken": "HYPE",
+          "twapId": null
+        },
+        {
+          "coin": "@107",
+          "px": "32.1",
+          "sz": "66.05",
+          "side": "B",
+          "time": 1772701892728,
+          "startPosition": "286.33542",
+          "dir": "Buy",
+          "closedPnl": "0.0",
+          "hash": "0xd262fc449c34819dd3dc0436799663020464002a3737a06f762ba7975b385b88",
+          "oid": 338985234243,
+          "crossed": false,
+          "fee": "0.02642",
+          "tid": 1059612898543888,
+          "feeToken": "HYPE",
+          "twapId": null
+        },
+        {
+          "coin": "@107",
+          "px": "31.67",
+          "sz": "19.35",
+          "side": "B",
+          "time": 1772700561026,
+          "startPosition": "266.99316",
+          "dir": "Buy",
+          "closedPnl": "0.0",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 338968306442,
+          "crossed": false,
+          "fee": "0.00774",
+          "tid": 853264162353274,
+          "feeToken": "HYPE",
+          "twapId": null
+        },
+        {
+          "coin": "@107",
+          "px": "31.67",
+          "sz": "0.46",
+          "side": "B",
+          "time": 1772700551040,
+          "startPosition": "266.533344",
+          "dir": "Buy",
+          "closedPnl": "0.0",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 338968306442,
+          "crossed": false,
+          "fee": "0.000184",
+          "tid": 30553903443926,
+          "feeToken": "HYPE",
+          "twapId": null
+        },
+        {
+          "coin": "@107",
+          "px": "31.67",
+          "sz": "66.66",
+          "side": "B",
+          "time": 1772700549200,
+          "startPosition": "199.900008",
+          "dir": "Buy",
+          "closedPnl": "0.0",
+          "hash": "0x4d6b6c43894052984ee5043679561d020a3b00292443716af134179648442c82",
+          "oid": 338968306442,
+          "crossed": false,
+          "fee": "0.026664",
+          "tid": 133716743161082,
+          "feeToken": "HYPE",
+          "twapId": null
+        },
+        {
+          "coin": "@107",
+          "px": "31.67",
+          "sz": "66.66",
+          "side": "B",
+          "time": 1772700548795,
+          "startPosition": "133.266672",
+          "dir": "Buy",
+          "closedPnl": "0.0",
+          "hash": "0xe47d2ccf5aec6531e5f6043679561802053e00b4f5ef84038845d82219e03f1c",
+          "oid": 338968306442,
+          "crossed": false,
+          "fee": "0.026664",
+          "tid": 551298966859144,
+          "feeToken": "HYPE",
+          "twapId": null
+        },
+        {
+          "coin": "@107",
+          "px": "31.67",
+          "sz": "66.66",
+          "side": "B",
+          "time": 1772700548795,
+          "startPosition": "66.633336",
+          "dir": "Buy",
+          "closedPnl": "0.0",
+          "hash": "0x31a9b634415b22b63323043679561802053d0019dc5e4188d5726187005efca0",
+          "oid": 338968306442,
+          "crossed": false,
+          "fee": "0.026664",
+          "tid": 375109560450531,
+          "feeToken": "HYPE",
+          "twapId": null
+        },
+        {
+          "coin": "@107",
+          "px": "31.67",
+          "sz": "66.66",
+          "side": "B",
+          "time": 1772700548663,
+          "startPosition": "0.0",
+          "dir": "Buy",
+          "closedPnl": "0.0",
+          "hash": "0x032d797f82ae2a3604a70436795617020adf00651da14908a6f624d241a20420",
+          "oid": 338968306442,
+          "crossed": false,
+          "fee": "0.026664",
+          "tid": 364904394210374,
+          "feeToken": "HYPE",
+          "twapId": null
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "address": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
+      "displayName": null,
+      "accountValue": "98404590.8480450064",
+      "pnl": {
+        "day": {
+          "pnl": "-2294411.5513909999",
+          "roi": "-0.0227571009",
+          "vlm": "348253517.3399999738"
+        },
+        "week": {
+          "pnl": "-3467569.8605820001",
+          "roi": "-0.0340384442",
+          "vlm": "1737517437.9800000191"
+        },
+        "month": {
+          "pnl": "3384272.3083330002",
+          "roi": "0.0303874848",
+          "vlm": "9731214870.8799991608"
+        },
+        "allTime": {
+          "pnl": "220822272.0980449915",
+          "roi": "2.1877307714",
+          "vlm": "269189437152.3399963379"
+        }
+      },
+      "openPositions": [
+        {
+          "coin": "BTC",
+          "szi": "-387.68305",
+          "entryPx": "61668.7",
+          "positionValue": "23946794.3154500015",
+          "unrealizedPnl": "-38868.200487",
+          "returnOnEquity": "-0.0325149077",
+          "leverage": {
+            "type": "cross",
+            "value": 20
+          },
+          "liquidationPx": "145710.0913167542"
+        },
+        {
+          "coin": "ETH",
+          "szi": "-17854.4722",
+          "entryPx": "1643.17",
+          "positionValue": "30657914.2146200016",
+          "unrealizedPnl": "-1319828.728286",
+          "returnOnEquity": "-0.6748030963",
+          "leverage": {
+            "type": "cross",
+            "value": 15
+          },
+          "liquidationPx": "3526.3528622683"
+        },
+        {
+          "coin": "ATOM",
+          "szi": "79677.06",
+          "entryPx": "1.6579",
+          "positionValue": "125786.174622",
+          "unrealizedPnl": "-6314.54942",
+          "returnOnEquity": "-0.2390051026",
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "liquidationPx": null
+        },
+        {
+          "coin": "SOL",
+          "szi": "-189359.37",
+          "entryPx": "76.8332",
+          "positionValue": "15350985.4071600009",
+          "unrealizedPnl": "-801891.93217",
+          "returnOnEquity": "-1.1023256309",
+          "leverage": {
+            "type": "cross",
+            "value": 20
+          },
+          "liquidationPx": "250.8281659681"
+        },
+        {
+          "coin": "AVAX",
+          "szi": "10808.04",
+          "entryPx": "6.5063",
+          "positionValue": "73844.852496",
+          "unrealizedPnl": "3523.7603",
+          "returnOnEquity": "0.5010957865",
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "liquidationPx": null
+        },
+        {
+          "coin": "BNB",
+          "szi": "-358.04",
+          "entryPx": "556.484",
+          "positionValue": "201154.0328",
+          "unrealizedPnl": "-1910.311901",
+          "returnOnEquity": "-0.0479390741",
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "liquidationPx": "84577.9845959898"
+        },
+        {
+          "coin": "LTC",
+          "szi": "-14028.84",
+          "entryPx": "43.6537",
+          "positionValue": "607252.36824",
+          "unrealizedPnl": "5158.79436",
+          "returnOnEquity": "0.0842374319",
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "liquidationPx": "2241.2878183562"
+        },
+        {
+          "coin": "ARB",
+          "szi": "-1947807.3",
+          "entryPx": "0.07781",
+          "positionValue": "152006.881692",
+          "unrealizedPnl": "-441.853097",
+          "returnOnEquity": "-0.0291527077",
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "liquidationPx": "15.5227821638"
+        },
+        {
+          "coin": "DOGE",
+          "szi": "-23615583.0",
+          "entryPx": "0.074188",
+          "positionValue": "1776765.6181709999",
+          "unrealizedPnl": "-24764.367217",
+          "returnOnEquity": "-0.141349027",
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "liquidationPx": "1.3787092088"
+        },
+        {
+          "coin": "INJ",
+          "szi": "-0.4",
+          "entryPx": "7.83",
+          "positionValue": "1.90888",
+          "unrealizedPnl": "1.22312",
+          "returnOnEquity": "1.9526181354",
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "liquidationPx": "78450766.7502547652"
+        },
+        {
+          "coin": "SUI",
+          "szi": "-3431280.7999999998",
+          "entryPx": "0.71252",
+          "positionValue": "2537020.3979039998",
+          "unrealizedPnl": "-92151.622213",
+          "returnOnEquity": "-0.3769184798",
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "liquidationPx": "9.7003776254"
+        },
+        {
+          "coin": "kPEPE",
+          "szi": "-281675552.0",
+          "entryPx": "0.002397",
+          "positionValue": "695738.61344",
+          "unrealizedPnl": "-20465.908299",
+          "returnOnEquity": "-0.3030761964",
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "liquidationPx": "0.1119271166"
+        },
+        {
+          "coin": "CRV",
+          "szi": "-2141702.2999999998",
+          "entryPx": "0.20339",
+          "positionValue": "439498.728983",
+          "unrealizedPnl": "-3882.951232",
+          "returnOnEquity": "-0.089137066",
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "liquidationPx": "14.606390311"
+        },
+        {
+          "coin": "LDO",
+          "szi": "-2174895.7999999998",
+          "entryPx": "0.2698",
+          "positionValue": "567843.5444219999",
+          "unrealizedPnl": "18959.347004",
+          "returnOnEquity": "0.1615478322",
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "liquidationPx": "14.0336704154"
+        },
+        {
+          "coin": "LINK",
+          "szi": "-230331.9",
+          "entryPx": "9.50808",
+          "positionValue": "1791820.94967",
+          "unrealizedPnl": "398195.333932",
+          "returnOnEquity": "1.8182300146",
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "liquidationPx": "141.4193724476"
+        },
+        {
+          "coin": "STX",
+          "szi": "-4.1",
+          "entryPx": "0.6031",
+          "positionValue": "0.690358",
+          "unrealizedPnl": "1.782352",
+          "returnOnEquity": "3.6040457636",
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "liquidationPx": "7305836.0953827053"
+        },
+        {
+          "coin": "SNX",
+          "szi": "639493.5",
+          "entryPx": "0.21919",
+          "positionValue": "148170.64395",
+          "unrealizedPnl": "7999.078581",
+          "returnOnEquity": "0.171199028",
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "liquidationPx": null
+        },
+        {
+          "coin": "XRP",
+          "szi": "-3988831.0",
+          "entryPx": "1.061428",
+          "positionValue": "4387315.2169000003",
+          "unrealizedPnl": "-153456.503223",
+          "returnOnEquity": "-0.3624506947",
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "liquidationPx": "9.1588220448"
+        },
+        {
+          "coin": "BCH",
+          "szi": "-225.857",
+          "entryPx": "211.85",
+          "positionValue": "50521.95233",
+          "unrealizedPnl": "-2673.956544",
+          "returnOnEquity": "-0.5588440017",
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "liquidationPx": "136862.0131753881"
+        },
+        {
+          "coin": "APT",
+          "szi": "78013.07",
+          "entryPx": "0.5928",
+          "positionValue": "48134.06419",
+          "unrealizedPnl": "1887.470702",
+          "returnOnEquity": "0.4081318341",
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "liquidationPx": null
+        },
+        {
+          "coin": "AAVE",
+          "szi": "-11070.51",
+          "entryPx": "89.8469",
+          "positionValue": "951886.73184",
+          "unrealizedPnl": "42764.865332",
+          "returnOnEquity": "0.4299481894",
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "liquidationPx": "2869.9343899172"
+        },
+        {
+          "coin": "WLD",
+          "szi": "-1118527.8",
+          "entryPx": "0.44127",
+          "positionValue": "468439.44264",
+          "unrealizedPnl": "25143.75097",
+          "returnOnEquity": "0.5094126238",
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "liquidationPx": "27.9922992978"
+        },
+        {
+          "coin": "TRX",
+          "szi": "2739855.0",
+          "entryPx": "0.321152",
+          "positionValue": "874013.745",
+          "unrealizedPnl": "-5898.700694",
+          "returnOnEquity": "-0.0670373595",
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "liquidationPx": null
+        },
+        {
+          "coin": "kSHIB",
+          "szi": "-584.0",
+          "entryPx": "0.014599",
+          "positionValue": "2.494264",
+          "unrealizedPnl": "6.031552",
+          "returnOnEquity": "7.0744571546",
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "liquidationPx": "51524.4748595268"
+        },
+        {
+          "coin": "UNI",
+          "szi": "-133736.1",
+          "entryPx": "3.03486",
+          "positionValue": "427634.55336",
+          "unrealizedPnl": "-21763.106068",
+          "returnOnEquity": "-0.5362068757",
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "liquidationPx": "233.8277759627"
+        },
+        {
+          "coin": "SEI",
+          "szi": "-2499765.0",
+          "entryPx": "0.051285",
+          "positionValue": "123393.39993",
+          "unrealizedPnl": "4809.238763",
+          "returnOnEquity": "0.1875639539",
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "liquidationPx": "12.0320592938"
+        },
+        {
+          "coin": "ZRO",
+          "szi": "535398.1",
+          "entryPx": "1.28218",
+          "positionValue": "466444.178701",
+          "unrealizedPnl": "-220034.527969",
+          "returnOnEquity": "-1.6026318503",
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "liquidationPx": null
+        },
+        {
+          "coin": "TIA",
+          "szi": "-157503.5",
+          "entryPx": "0.37008",
+          "positionValue": "59397.71992",
+          "unrealizedPnl": "-1108.564501",
+          "returnOnEquity": "-0.0950918308",
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "liquidationPx": "190.5565591916"
+        },
+        {
+          "coin": "ADA",
+          "szi": "-1534832.0",
+          "entryPx": "0.157378",
+          "positionValue": "253124.49344",
+          "unrealizedPnl": "-11575.13782",
+          "returnOnEquity": "-0.4792038377",
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "liquidationPx": "20.2658252137"
+        },
+        {
+          "coin": "NEAR",
+          "szi": "-445318.2",
+          "entryPx": "1.90556",
+          "positionValue": "869884.5718799999",
+          "unrealizedPnl": "-21303.213899",
+          "returnOnEquity": "-0.2510450377",
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "liquidationPx": "71.1701488371"
+        },
+        {
+          "coin": "PYTH",
+          "szi": "-939971.0",
+          "entryPx": "0.03941",
+          "positionValue": "37290.529512",
+          "unrealizedPnl": "-246.227975",
+          "returnOnEquity": "-0.033234258",
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "liquidationPx": "31.9065352338"
+        },
+        {
+          "coin": "kBONK",
+          "szi": "-159428517.0",
+          "entryPx": "0.004642",
+          "positionValue": "700210.046664",
+          "unrealizedPnl": "39864.493942",
+          "returnOnEquity": "0.5386551186",
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "liquidationPx": "0.1977776694"
+        },
+        {
+          "coin": "JUP",
+          "szi": "1212121.0",
+          "entryPx": "0.232268",
+          "positionValue": "293345.40321",
+          "unrealizedPnl": "11808.344285",
+          "returnOnEquity": "0.2097120772",
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "liquidationPx": null
+        },
+        {
+          "coin": "WIF",
+          "szi": "-777864.0",
+          "entryPx": "0.166485",
+          "positionValue": "134780.49528",
+          "unrealizedPnl": "-5277.677218",
+          "returnOnEquity": "-0.203766887",
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "liquidationPx": "38.6811933654"
+        },
+        {
+          "coin": "ONDO",
+          "szi": "-1056596.0",
+          "entryPx": "0.324924",
+          "positionValue": "348296.30544",
+          "unrealizedPnl": "-4981.977638",
+          "returnOnEquity": "-0.1451141777",
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "liquidationPx": "28.7931769496"
+        },
+        {
+          "coin": "STRK",
+          "szi": "38.9",
+          "entryPx": "0.18052",
+          "positionValue": "1.211735",
+          "unrealizedPnl": "-5.810493",
+          "returnOnEquity": "-2.4823288278",
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "liquidationPx": null
+        },
+        {
+          "coin": "TAO",
+          "szi": "-2780.442",
+          "entryPx": "211.511",
+          "positionValue": "592929.2565",
+          "unrealizedPnl": "-4834.329189",
+          "returnOnEquity": "-0.0411016059",
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "liquidationPx": "10986.331150663"
+        },
+        {
+          "coin": "kFLOKI",
+          "szi": "5009776.0",
+          "entryPx": "0.022614",
+          "positionValue": "112674.872016",
+          "unrealizedPnl": "-617.031634",
+          "returnOnEquity": "-0.0272319387",
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "liquidationPx": null
+        },
+        {
+          "coin": "BOME",
+          "szi": "-40142694.0",
+          "entryPx": "0.000572",
+          "positionValue": "17221.215726",
+          "unrealizedPnl": "5778.176359",
+          "returnOnEquity": "0.7536950982",
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "liquidationPx": "0.7039760592"
+        },
+        {
+          "coin": "ETHFI",
+          "szi": "9.0",
+          "entryPx": "1.1562",
+          "positionValue": "3.02247",
+          "unrealizedPnl": "-7.38333",
+          "returnOnEquity": "-3.54769936",
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "liquidationPx": null
+        },
+        {
+          "coin": "ENA",
+          "szi": "-24992832.0",
+          "entryPx": "0.102652",
+          "positionValue": "1939168.8420480001",
+          "unrealizedPnl": "626413.791433",
+          "returnOnEquity": "1.2208022132",
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "liquidationPx": "1.308937019"
+        },
+        {
+          "coin": "POPCAT",
+          "szi": "-6748647.0",
+          "entryPx": "0.04775",
+          "positionValue": "334159.256205",
+          "unrealizedPnl": "-11909.065161",
+          "returnOnEquity": "-0.1108678799",
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "liquidationPx": "4.2343944747"
+        },
+        {
+          "coin": "EIGEN",
+          "szi": "-1642787.3400000001",
+          "entryPx": "0.2448",
+          "positionValue": "346299.571272",
+          "unrealizedPnl": "55893.797928",
+          "returnOnEquity": "0.6948622505",
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "liquidationPx": "18.4444000354"
+        },
+        {
+          "coin": "TURBO",
+          "szi": "853.0",
+          "entryPx": "0.002621",
+          "positionValue": "0.747228",
+          "unrealizedPnl": "-1.488485",
+          "returnOnEquity": "-1.9973292636",
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "liquidationPx": null
+        },
+        {
+          "coin": "GOAT",
+          "szi": "234.0",
+          "entryPx": "0.046428",
+          "positionValue": "3.194568",
+          "unrealizedPnl": "-7.669584",
+          "returnOnEquity": "-2.1178599121",
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "liquidationPx": null
+        },
+        {
+          "coin": "MOODENG",
+          "szi": "245.0",
+          "entryPx": "0.094647",
+          "positionValue": "10.817485",
+          "unrealizedPnl": "-12.37103",
+          "returnOnEquity": "-1.6004944689",
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "liquidationPx": null
+        },
+        {
+          "coin": "GRASS",
+          "szi": "-434838.1",
+          "entryPx": "0.37792",
+          "positionValue": "220615.110035",
+          "unrealizedPnl": "-56276.843449",
+          "returnOnEquity": "-1.02733547",
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "liquidationPx": "65.4562914844"
+        },
+        {
+          "coin": "PURR",
+          "szi": "121.0",
+          "entryPx": "0.087038",
+          "positionValue": "11.123167",
+          "unrealizedPnl": "0.591481",
+          "returnOnEquity": "0.1684861284",
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "liquidationPx": null
+        },
+        {
+          "coin": "PNUT",
+          "szi": "-50.1",
+          "entryPx": "0.17553",
+          "positionValue": "2.217426",
+          "unrealizedPnl": "6.576627",
+          "returnOnEquity": "2.2435481114",
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "liquidationPx": "597882.8247133187"
+        },
+        {
+          "coin": "XLM",
+          "szi": "253228.0",
+          "entryPx": "0.198219",
+          "positionValue": "50744.35892",
+          "unrealizedPnl": "549.575627",
+          "returnOnEquity": "0.0547442972",
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "liquidationPx": null
+        },
+        {
+          "coin": "HYPE",
+          "szi": "-47778.45",
+          "entryPx": "65.8683",
+          "positionValue": "3199961.6887500002",
+          "unrealizedPnl": "-52873.868087",
+          "returnOnEquity": "-0.0504026622",
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "liquidationPx": "709.8917418735"
+        },
+        {
+          "coin": "ME",
+          "szi": "2.1",
+          "entryPx": "1.5",
+          "positionValue": "0.139167",
+          "unrealizedPnl": "-3.010833",
+          "returnOnEquity": "-2.86746",
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "liquidationPx": null
+        },
+        {
+          "coin": "VIRTUAL",
+          "szi": "-884868.0",
+          "entryPx": "0.55799",
+          "positionValue": "495393.3498",
+          "unrealizedPnl": "-1641.909071",
+          "returnOnEquity": "-0.0166268788",
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "liquidationPx": "34.4111445442"
+        },
+        {
+          "coin": "PENGU",
+          "szi": "-59190613.0",
+          "entryPx": "0.00633",
+          "positionValue": "379707.782395",
+          "unrealizedPnl": "-4972.688171",
+          "returnOnEquity": "-0.0663493792",
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "liquidationPx": "0.5124737445"
+        },
+        {
+          "coin": "USUAL",
+          "szi": "17.7",
+          "entryPx": "0.15174",
+          "positionValue": "0.163194",
+          "unrealizedPnl": "-2.522604",
+          "returnOnEquity": "-2.8177145117",
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "liquidationPx": null
+        },
+        {
+          "coin": "FARTCOIN",
+          "szi": "-3612632.1000000001",
+          "entryPx": "0.13802",
+          "positionValue": "604212.718725",
+          "unrealizedPnl": "-105583.812086",
+          "returnOnEquity": "-0.6352448325",
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "liquidationPx": "8.7027313725"
+        },
+        {
+          "coin": "AIXBT",
+          "szi": "-1059708.0",
+          "entryPx": "0.018676",
+          "positionValue": "20720.470524",
+          "unrealizedPnl": "-928.677282",
+          "returnOnEquity": "-0.1407670246",
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "liquidationPx": "26.6705496067"
+        },
+        {
+          "coin": "GRIFFAIN",
+          "szi": "-3535.0",
+          "entryPx": "0.007898",
+          "positionValue": "33.225465",
+          "unrealizedPnl": "-5.305006",
+          "returnOnEquity": "-0.5700127638",
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "liquidationPx": "7989.3373515033"
+        },
+        {
+          "coin": "SPX",
+          "szi": "-795168.8",
+          "entryPx": "0.35774",
+          "positionValue": "309121.871",
+          "unrealizedPnl": "-24655.336219",
+          "returnOnEquity": "-0.4333609266",
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "liquidationPx": "38.0586476377"
+        },
+        {
+          "coin": "MORPHO",
+          "szi": "-125313.0",
+          "entryPx": "2.03984",
+          "positionValue": "250438.0305",
+          "unrealizedPnl": "5180.642336",
+          "returnOnEquity": "0.1013353657",
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "liquidationPx": "241.031380074"
+        },
+        {
+          "coin": "TRUMP",
+          "szi": "261046.0",
+          "entryPx": "1.70867",
+          "positionValue": "448894.7016",
+          "unrealizedPnl": "2851.506133",
+          "returnOnEquity": "0.0639289235",
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "liquidationPx": null
+        },
+        {
+          "coin": "MELANIA",
+          "szi": "1899747.3999999999",
+          "entryPx": "0.082",
+          "positionValue": "149871.072386",
+          "unrealizedPnl": "-5909.537947",
+          "returnOnEquity": "-0.1138050095",
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "liquidationPx": null
+        },
+        {
+          "coin": "VVV",
+          "szi": "-76030.29",
+          "entryPx": "13.5022",
+          "positionValue": "1063131.54507",
+          "unrealizedPnl": "-36552.035888",
+          "returnOnEquity": "-0.1068169652",
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "liquidationPx": "385.443825838"
+        },
+        {
+          "coin": "BERA",
+          "szi": "36.9",
+          "entryPx": "0.2609",
+          "positionValue": "8.071875",
+          "unrealizedPnl": "-1.555593",
+          "returnOnEquity": "-0.8078931034",
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "liquidationPx": null
+        },
+        {
+          "coin": "LAYER",
+          "szi": "6.0",
+          "entryPx": "1.141",
+          "positionValue": "0.405066",
+          "unrealizedPnl": "-6.440934",
+          "returnOnEquity": "-2.8224951797",
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "liquidationPx": null
+        },
+        {
+          "coin": "KAITO",
+          "szi": "25.0",
+          "entryPx": "0.34043",
+          "positionValue": "14.39875",
+          "unrealizedPnl": "5.888",
+          "returnOnEquity": "3.4591545986",
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "liquidationPx": null
+        },
+        {
+          "coin": "PAXG",
+          "szi": "-85.711",
+          "entryPx": "4091.688",
+          "positionValue": "357174.8792",
+          "unrealizedPnl": "-6472.166666",
+          "returnOnEquity": "-0.0922742601",
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "liquidationPx": "355044.6336467155"
+        },
+        {
+          "coin": "ZORA",
+          "szi": "139.0",
+          "entryPx": "0.026761",
+          "positionValue": "0.99802",
+          "unrealizedPnl": "-2.721802",
+          "returnOnEquity": "-2.1951066476",
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "liquidationPx": null
+        },
+        {
+          "coin": "SOPH",
+          "szi": "112.0",
+          "entryPx": "0.053636",
+          "positionValue": "0.56672",
+          "unrealizedPnl": "-5.440606",
+          "returnOnEquity": "-2.7169855606",
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "liquidationPx": null
+        },
+        {
+          "coin": "PUMP",
+          "szi": "-2218882229.0",
+          "entryPx": "0.001466",
+          "positionValue": "3476988.4528430002",
+          "unrealizedPnl": "-222437.32051",
+          "returnOnEquity": "-0.2050396305",
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "liquidationPx": "0.0154050365"
+        },
+        {
+          "coin": "XPL",
+          "szi": "-11791615.0",
+          "entryPx": "0.095212",
+          "positionValue": "1161002.4129000001",
+          "unrealizedPnl": "-38294.981974",
+          "returnOnEquity": "-0.1705474682",
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "liquidationPx": "2.6458225199"
+        },
+        {
+          "coin": "WLFI",
+          "szi": "599026.0",
+          "entryPx": "0.058329",
+          "positionValue": "34354.1411",
+          "unrealizedPnl": "-587.031408",
+          "returnOnEquity": "-0.0840028204",
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "liquidationPx": null
+        },
+        {
+          "coin": "ASTER",
+          "szi": "-1702012.0",
+          "entryPx": "0.660265",
+          "positionValue": "1087772.8893200001",
+          "unrealizedPnl": "36007.11479",
+          "returnOnEquity": "0.0961232127",
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "liquidationPx": "18.2382381499"
+        },
+        {
+          "coin": "AVNT",
+          "szi": "-1245577.0",
+          "entryPx": "0.093172",
+          "positionValue": "120076.113954",
+          "unrealizedPnl": "-4022.282127",
+          "returnOnEquity": "-0.1732938096",
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "liquidationPx": "24.1446361122"
+        },
+        {
+          "coin": "STBL",
+          "szi": "1162009.0",
+          "entryPx": "0.025425",
+          "positionValue": "30833.908815",
+          "unrealizedPnl": "1288.760677",
+          "returnOnEquity": "0.1308601335",
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "liquidationPx": null
+        },
+        {
+          "coin": "0G",
+          "szi": "3.0",
+          "entryPx": "1.8125",
+          "positionValue": "0.64533",
+          "unrealizedPnl": "-4.79217",
+          "returnOnEquity": "-2.6439558621",
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "liquidationPx": null
+        },
+        {
+          "coin": "2Z",
+          "szi": "1496692.0",
+          "entryPx": "0.065528",
+          "positionValue": "99449.196632",
+          "unrealizedPnl": "1372.686097",
+          "returnOnEquity": "0.0419882219",
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "liquidationPx": null
+        },
+        {
+          "coin": "ZEC",
+          "szi": "-1414.13",
+          "entryPx": "412.3346",
+          "positionValue": "617508.1470999999",
+          "unrealizedPnl": "-34413.416558",
+          "returnOnEquity": "-0.2950928447",
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "liquidationPx": "22241.5603973905"
+        },
+        {
+          "coin": "MON",
+          "szi": "-6078345.0",
+          "entryPx": "0.019214",
+          "positionValue": "124867.441335",
+          "unrealizedPnl": "-8076.372145",
+          "returnOnEquity": "-0.207456928",
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "liquidationPx": "4.9485171938"
+        },
+        {
+          "coin": "MET",
+          "szi": "-348647.0",
+          "entryPx": "0.155407",
+          "positionValue": "61511.79021",
+          "unrealizedPnl": "-7329.468811",
+          "returnOnEquity": "-0.4058225241",
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "liquidationPx": "81.1817858817"
+        },
+        {
+          "coin": "LIT",
+          "szi": "-257999.0",
+          "entryPx": "2.014581",
+          "positionValue": "537850.5153",
+          "unrealizedPnl": "-18090.517351",
+          "returnOnEquity": "-0.104416562",
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "liquidationPx": "118.1856434173"
+        },
+        {
+          "coin": "CHIP",
+          "szi": "132.0",
+          "entryPx": "0.03071",
+          "positionValue": "4.016364",
+          "unrealizedPnl": "-0.037356",
+          "returnOnEquity": "-0.027645718",
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "liquidationPx": null
+        }
+      ],
+      "recentFills": [
+        {
+          "coin": "TRX",
+          "px": "0.31898",
+          "sz": "206.0",
+          "side": "A",
+          "time": 1783063776362,
+          "startPosition": "2739855.0",
+          "dir": "Close Long",
+          "closedPnl": "-0.447432",
+          "hash": "0x1d6b8af5f38d55c31ee5043f1adb6b02017900db8e807495c1343648b2812fad",
+          "oid": 486496338916,
+          "crossed": false,
+          "fee": "-0.001971",
+          "tid": 12531647192812,
+          "cloid": "0x65609d5215b349955829c5983bd1b9c8",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "MORPHO",
+          "px": "1.9977",
+          "sz": "18.9",
+          "side": "A",
+          "time": 1783063776253,
+          "startPosition": "-125313.0",
+          "dir": "Open Short",
+          "closedPnl": "0.0",
+          "hash": "0x454a04e170d0d82546c3043f1adb6a01db001cc70bd3f6f7e912b0342fd4b20f",
+          "oid": 486496427668,
+          "crossed": true,
+          "fee": "0.006871",
+          "tid": 157030627687762,
+          "cloid": "0x7134041fe591d4ce8565f301fe98ad05",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "xyz:TSLA",
+          "px": "397.89",
+          "sz": "0.101",
+          "side": "B",
+          "time": 1783063776253,
+          "startPosition": "-986.19",
+          "dir": "Close Short",
+          "closedPnl": "-0.204323",
+          "hash": "0xdfa317ab3dbe532de11c043f1adb6a01d9002f90d8b171ff836bc2fdfcb22d18",
+          "oid": 486496427666,
+          "crossed": true,
+          "fee": "0.001462",
+          "tid": 620575940744955,
+          "cloid": "0x8442c66772da7e08fd070847841df8ce",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "xyz:TSLA",
+          "px": "397.89",
+          "sz": "0.12",
+          "side": "B",
+          "time": 1783063776253,
+          "startPosition": "-986.31",
+          "dir": "Close Short",
+          "closedPnl": "-0.24276",
+          "hash": "0xdfa317ab3dbe532de11c043f1adb6a01d9002f90d8b171ff836bc2fdfcb22d18",
+          "oid": 486496427666,
+          "crossed": true,
+          "fee": "0.001737",
+          "tid": 13014048950920,
+          "cloid": "0x8442c66772da7e08fd070847841df8ce",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "xyz:NATGAS",
+          "px": "3.2624",
+          "sz": "74.7",
+          "side": "A",
+          "time": 1783063776005,
+          "startPosition": "10096.8",
+          "dir": "Close Long",
+          "closedPnl": "3.078387",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 486496419328,
+          "crossed": false,
+          "fee": "-0.000731",
+          "tid": 1024599283509960,
+          "cloid": "0xbc1197ad72a6a2e68baf88798622582c",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "xyz:MU",
+          "px": "1012.6",
+          "sz": "1.982",
+          "side": "B",
+          "time": 1783063775735,
+          "startPosition": "-448.732",
+          "dir": "Close Short",
+          "closedPnl": "-0.858206",
+          "hash": "0xd16a1a0ea2e4c46cd2e3043f1adb620201cc00f43de7e33e7532c56161e89e57",
+          "oid": 486496426272,
+          "crossed": true,
+          "fee": "0.073053",
+          "tid": 918410738503872,
+          "cloid": "0xc692a59734989efc3ba6df7c0d800c5c",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "DOGE",
+          "px": "0.075237",
+          "sz": "156.0",
+          "side": "A",
+          "time": 1783063773583,
+          "startPosition": "-23615427.0",
+          "dir": "Open Short",
+          "closedPnl": "0.0",
+          "hash": "0xd3ae1faae419cad1d527043f1adb4201f70037907f1ce9a37776cafda31da4bc",
+          "oid": 486496375145,
+          "crossed": false,
+          "fee": "-0.000352",
+          "tid": 1007138282686319,
+          "cloid": "0x5260bee46f1aac29af49900cec066c1b",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "xyz:AMZN",
+          "px": "243.77",
+          "sz": "2.515",
+          "side": "B",
+          "time": 1783063772007,
+          "startPosition": "-854.419",
+          "dir": "Close Short",
+          "closedPnl": "-1.526605",
+          "hash": "0xd9b15e397c072c1edb2b043f1adb2d01f700761f170a4af07d7a098c3b0b0609",
+          "oid": 486496413428,
+          "crossed": true,
+          "fee": "0.022316",
+          "tid": 537402127335190,
+          "cloid": "0xbdf229f45423dd5bbddfc964190152c0",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "BCH",
+          "px": "223.68",
+          "sz": "4.475",
+          "side": "B",
+          "time": 1783063772007,
+          "startPosition": "-230.332",
+          "dir": "Close Short",
+          "closedPnl": "-52.93925",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 486496396492,
+          "crossed": false,
+          "fee": "-0.030029",
+          "tid": 780745531047749,
+          "cloid": "0x6680aa178bb6bb41e9ffcb17be5fa9c2",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "WLFI",
+          "px": "0.057344",
+          "sz": "4571.0",
+          "side": "A",
+          "time": 1783063771672,
+          "startPosition": "603597.0",
+          "dir": "Close Long",
+          "closedPnl": "-4.502435",
+          "hash": "0xbd415fcb6c347480bebb043f1adb2801cb0077b107379352610a0b1e2b384e6b",
+          "oid": 486496377897,
+          "crossed": false,
+          "fee": "-0.007863",
+          "tid": 790155683079382,
+          "cloid": "0x749098ce353adab0d0e0211824aec6e4",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "XPL",
+          "px": "0.09846",
+          "sz": "162.0",
+          "side": "B",
+          "time": 1783063771470,
+          "startPosition": "-11791777.0",
+          "dir": "Close Short",
+          "closedPnl": "-0.526176",
+          "hash": "0xe85e48f426b6e190e9d8043f1adb2501020060d9c1ba00628c26f446e5babb7b",
+          "oid": 486496409683,
+          "crossed": false,
+          "fee": "-0.000478",
+          "tid": 1110578408563996,
+          "cloid": "0x7580a91dad907233b6fcf9211fbf2d84",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "@162",
+          "px": "0.16712",
+          "sz": "831.6",
+          "side": "A",
+          "time": 1783063771064,
+          "startPosition": "1056636.6008220001",
+          "dir": "Sell",
+          "closedPnl": "27.02704325",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 486496402311,
+          "crossed": false,
+          "fee": "-0.024947",
+          "tid": 520678243365744,
+          "cloid": "0x10901a43b769ee9d0bf62f61784e2d37",
+          "feeToken": "UFART",
+          "twapId": null
+        },
+        {
+          "coin": "xyz:TSLA",
+          "px": "397.88",
+          "sz": "0.749",
+          "side": "B",
+          "time": 1783063770172,
+          "startPosition": "-987.059",
+          "dir": "Close Short",
+          "closedPnl": "-1.507737",
+          "hash": "0x1e791278f9c7953e1ff2043f1adb1201fa002a5e94cab410c241bdcbb8cb6f28",
+          "oid": 486496406877,
+          "crossed": true,
+          "fee": "0.010847",
+          "tid": 543156565807049,
+          "cloid": "0x8442459f900923ed5382515c20ec7bac",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "2Z",
+          "px": "0.066461",
+          "sz": "615.0",
+          "side": "A",
+          "time": 1783063770022,
+          "startPosition": "1497307.0",
+          "dir": "Close Long",
+          "closedPnl": "0.573795",
+          "hash": "0xb9af61ef24e94cccbb29043f1adb1001060079d4bfec6b9e5d780d41e3ed26b7",
+          "oid": 486496359661,
+          "crossed": false,
+          "fee": "-0.001226",
+          "tid": 888472811200773,
+          "cloid": "0x7640ab6e04d9b1799bbcd7c8d59fc6fc",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "BNB",
+          "px": "561.83",
+          "sz": "0.035",
+          "side": "A",
+          "time": 1783063769297,
+          "startPosition": "-358.005",
+          "dir": "Open Short",
+          "closedPnl": "0.0",
+          "hash": "0xd3daf6bb01b0b915d554043f1adb050201d200a09cb3d7e777a3a20dc0b49300",
+          "oid": 486496370713,
+          "crossed": false,
+          "fee": "-0.000589",
+          "tid": 274197967903183,
+          "cloid": "0x6460d0b4178ad369bf236eabe8beec13",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "xyz:DRAM",
+          "px": "63.834",
+          "sz": "11.0",
+          "side": "A",
+          "time": 1783063768400,
+          "startPosition": "1270.5",
+          "dir": "Close Long",
+          "closedPnl": "7.60485",
+          "hash": "0x9165bd7402d2c0d892df043f1adaf801b500d5599dd5dfaa352e68c6c1d69ac3",
+          "oid": 486496400272,
+          "crossed": true,
+          "fee": "0.025559",
+          "tid": 194108879033452,
+          "cloid": "0x00d234a56fc4c24f0b64cc72c2fc6f7d",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "DOGE",
+          "px": "0.075237",
+          "sz": "21853.0",
+          "side": "A",
+          "time": 1783063768007,
+          "startPosition": "-23593574.0",
+          "dir": "Open Short",
+          "closedPnl": "0.0",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 486496375145,
+          "crossed": false,
+          "fee": "-0.049324",
+          "tid": 1019083031176184,
+          "cloid": "0x5260bee46f1aac29af49900cec066c1b",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "PUMP",
+          "px": "0.001569",
+          "sz": "55204.0",
+          "side": "A",
+          "time": 1783063768007,
+          "startPosition": "-2218827025.0",
+          "dir": "Open Short",
+          "closedPnl": "0.0",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 486496209137,
+          "crossed": false,
+          "fee": "-0.002598",
+          "tid": 1121238258494006,
+          "cloid": "0x7410078d671502c9cc64cc830eb1c0d8",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "xyz:CL",
+          "px": "68.604",
+          "sz": "15.5",
+          "side": "A",
+          "time": 1783063765275,
+          "startPosition": "940.226",
+          "dir": "Close Long",
+          "closedPnl": "-5.3475",
+          "hash": "0xcbc0476423da6cdecd3a043f1adacd02015c0049bedd8bb06f88f2b6e2de46c9",
+          "oid": 486496388910,
+          "crossed": true,
+          "fee": "0.038706",
+          "tid": 241483887726952,
+          "cloid": "0x866234dae85fd0fb10b4f99b22003f7b",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "WLFI",
+          "px": "0.057344",
+          "sz": "4158.0",
+          "side": "A",
+          "time": 1783063764667,
+          "startPosition": "607755.0",
+          "dir": "Close Long",
+          "closedPnl": "-4.09563",
+          "hash": "0x95d807bd40faf4d39751043f1adac401eb001fa2dbfe13a539a0b30ffffecebe",
+          "oid": 486496377897,
+          "crossed": false,
+          "fee": "-0.007153",
+          "tid": 234842677299127,
+          "cloid": "0x749098ce353adab0d0e0211824aec6e4",
+          "feeToken": "USDC",
+          "twapId": null
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "address": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
+      "displayName": "BobbyBigSize",
+      "accountValue": "37667536.1808449998",
+      "pnl": {
+        "day": {
+          "pnl": "-989957.471943",
+          "roi": "-0.0256082911",
+          "vlm": "47437684.6400000006"
+        },
+        "week": {
+          "pnl": "-1251462.0121530001",
+          "roi": "-0.0321553904",
+          "vlm": "237535586.4499999881"
+        },
+        "month": {
+          "pnl": "8239833.8767049992",
+          "roi": "0.1509867088",
+          "vlm": "1517996076.4200000763"
+        },
+        "allTime": {
+          "pnl": "185764148.0608449876",
+          "roi": "3.0034358455",
+          "vlm": "13930414814.1500015259"
+        }
+      },
+      "openPositions": [
+        {
+          "coin": "BTC",
+          "szi": "-784.37269",
+          "entryPx": "60595.3",
+          "positionValue": "48449916.6886100024",
+          "unrealizedPnl": "-920592.075964",
+          "returnOnEquity": "-0.3873785641",
+          "leverage": {
+            "type": "cross",
+            "value": 20
+          },
+          "liquidationPx": "86611.1412733495"
+        },
+        {
+          "coin": "ETH",
+          "szi": "-15253.9626",
+          "entryPx": "1655.01",
+          "positionValue": "26191053.7842000015",
+          "unrealizedPnl": "-945574.44605",
+          "returnOnEquity": "-0.5618279812",
+          "leverage": {
+            "type": "cross",
+            "value": 15
+          },
+          "liquidationPx": "2985.0129071123"
+        },
+        {
+          "coin": "SOL",
+          "szi": "-86955.88",
+          "entryPx": "79.8862",
+          "positionValue": "7049426.2357200002",
+          "unrealizedPnl": "-102844.835089",
+          "returnOnEquity": "-0.296102008",
+          "leverage": {
+            "type": "cross",
+            "value": 20
+          },
+          "liquidationPx": "302.4211289371"
+        },
+        {
+          "coin": "AVAX",
+          "szi": "-365298.17",
+          "entryPx": "13.2086",
+          "positionValue": "2495607.5079890001",
+          "unrealizedPnl": "2329481.8867350002",
+          "returnOnEquity": "4.8278522866",
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "liquidationPx": "58.1080823871"
+        },
+        {
+          "coin": "BNB",
+          "szi": "-1553.193",
+          "entryPx": "763.004",
+          "positionValue": "872614.8912599999",
+          "unrealizedPnl": "312479.079905",
+          "returnOnEquity": "2.6367451654",
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "liquidationPx": "12171.5901761199"
+        },
+        {
+          "coin": "LTC",
+          "szi": "13.43",
+          "entryPx": "96.343",
+          "positionValue": "581.33098",
+          "unrealizedPnl": "-712.556641",
+          "returnOnEquity": "-5.5070983711",
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "liquidationPx": null
+        },
+        {
+          "coin": "DOGE",
+          "szi": "-34620126.0",
+          "entryPx": "0.10403",
+          "positionValue": "2604714.4198619998",
+          "unrealizedPnl": "996817.7967459999",
+          "returnOnEquity": "2.767760322",
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "liquidationPx": "0.6161422886"
+        },
+        {
+          "coin": "kPEPE",
+          "szi": "106434.0",
+          "entryPx": "0.003678",
+          "positionValue": "262.89198",
+          "unrealizedPnl": "-128.572272",
+          "returnOnEquity": "-3.2843936922",
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "liquidationPx": null
+        },
+        {
+          "coin": "XRP",
+          "szi": "2049867.0",
+          "entryPx": "1.091213",
+          "positionValue": "2254648.7132999999",
+          "unrealizedPnl": "17806.895756",
+          "returnOnEquity": "0.1592146178",
+          "leverage": {
+            "type": "cross",
+            "value": 20
+          },
+          "liquidationPx": null
+        },
+        {
+          "coin": "WLD",
+          "szi": "-56580.3",
+          "entryPx": "0.98736",
+          "positionValue": "23704.316685",
+          "unrealizedPnl": "32161.305962",
+          "returnOnEquity": "5.7569045932",
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "liquidationPx": "332.5060291161"
+        },
+        {
+          "coin": "ADA",
+          "szi": "-26179.0",
+          "entryPx": "0.549523",
+          "positionValue": "4317.96426",
+          "unrealizedPnl": "10068.017204",
+          "returnOnEquity": "6.9984917117",
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "liquidationPx": "717.9000163021"
+        },
+        {
+          "coin": "WIF",
+          "szi": "-1226.0",
+          "entryPx": "0.784313",
+          "positionValue": "212.42902",
+          "unrealizedPnl": "749.1397",
+          "returnOnEquity": "3.8954038563",
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "liquidationPx": "15326.1003193568"
+        },
+        {
+          "coin": "TAO",
+          "szi": "-1034.415",
+          "entryPx": "259.298",
+          "positionValue": "220588.99875",
+          "unrealizedPnl": "47633.245503",
+          "returnOnEquity": "0.8879436088",
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "liquidationPx": "17552.0496558766"
+        },
+        {
+          "coin": "ENA",
+          "szi": "209641.0",
+          "entryPx": "0.131656",
+          "positionValue": "16264.577703",
+          "unrealizedPnl": "-11336.043396",
+          "returnOnEquity": "-4.107169674",
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "liquidationPx": null
+        },
+        {
+          "coin": "POPCAT",
+          "szi": "-4674.0",
+          "entryPx": "0.215958",
+          "positionValue": "231.43311",
+          "unrealizedPnl": "777.957191",
+          "returnOnEquity": "2.3121596975",
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "liquidationPx": "4020.0723139968"
+        },
+        {
+          "coin": "GOAT",
+          "szi": "-327719.0",
+          "entryPx": "0.478596",
+          "positionValue": "4474.019788",
+          "unrealizedPnl": "152371.10288",
+          "returnOnEquity": "2.9144247578",
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "liquidationPx": "54.7419846448"
+        },
+        {
+          "coin": "HYPE",
+          "szi": "268375.21",
+          "entryPx": "64.4389",
+          "positionValue": "17974429.6897500008",
+          "unrealizedPnl": "680606.613979",
+          "returnOnEquity": "0.1967773728",
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "liquidationPx": null
+        },
+        {
+          "coin": "PENGU",
+          "szi": "129017.0",
+          "entryPx": "0.028211",
+          "positionValue": "827.644055",
+          "unrealizedPnl": "-2812.054532",
+          "returnOnEquity": "-3.8630321506",
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "liquidationPx": null
+        },
+        {
+          "coin": "FARTCOIN",
+          "szi": "-1288530.8",
+          "entryPx": "0.19139",
+          "positionValue": "215571.20284",
+          "unrealizedPnl": "31050.357501",
+          "returnOnEquity": "1.2590285074",
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "liquidationPx": "14.7494788369"
+        },
+        {
+          "coin": "PUMP",
+          "szi": "317374.0",
+          "entryPx": "0.001716",
+          "positionValue": "497.325058",
+          "unrealizedPnl": "-47.33",
+          "returnOnEquity": "-0.4344951847",
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "liquidationPx": null
+        },
+        {
+          "coin": "XPL",
+          "szi": "645.0",
+          "entryPx": "0.11772",
+          "positionValue": "63.5067",
+          "unrealizedPnl": "-12.4227",
+          "returnOnEquity": "-0.8180428135",
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "liquidationPx": null
+        },
+        {
+          "coin": "LINEA",
+          "szi": "-126660.0",
+          "entryPx": "0.027679",
+          "positionValue": "310.57032",
+          "unrealizedPnl": "3195.323439",
+          "returnOnEquity": "2.7342443827",
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "liquidationPx": "133.5144361012"
+        },
+        {
+          "coin": "ASTER",
+          "szi": "1224354.0",
+          "entryPx": "0.633802",
+          "positionValue": "782496.88494",
+          "unrealizedPnl": "6498.832858",
+          "returnOnEquity": "0.0251244169",
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "liquidationPx": null
+        },
+        {
+          "coin": "ZEC",
+          "szi": "-9754.36",
+          "entryPx": "408.8056",
+          "positionValue": "4259046.2067999998",
+          "unrealizedPnl": "-271409.005531",
+          "returnOnEquity": "-0.6806261248",
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "liquidationPx": "2348.69930498"
+        },
+        {
+          "coin": "MON",
+          "szi": "-15613.0",
+          "entryPx": "0.031901",
+          "positionValue": "320.69102",
+          "unrealizedPnl": "177.381483",
+          "returnOnEquity": "1.7806793382",
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "liquidationPx": "1148.7757085156"
+        },
+        {
+          "coin": "LIT",
+          "szi": "-1342190.0",
+          "entryPx": "1.702297",
+          "positionValue": "2798063.4929999998",
+          "unrealizedPnl": "-513256.73688",
+          "returnOnEquity": "-0.673917042",
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "liquidationPx": "15.4475729509"
+        },
+        {
+          "coin": "XMR",
+          "szi": "-19898.964",
+          "entryPx": "339.935",
+          "positionValue": "6343391.7439200003",
+          "unrealizedPnl": "420973.965178",
+          "returnOnEquity": "0.3111703176",
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "liquidationPx": "1220.1090564289"
+        }
+      ],
+      "recentFills": [
+        {
+          "coin": "HYPE",
+          "px": "66.975",
+          "sz": "0.52",
+          "side": "A",
+          "time": 1783063777036,
+          "startPosition": "268375.73",
+          "dir": "Close Long",
+          "closedPnl": "1.318772",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 486496423270,
+          "crossed": false,
+          "fee": "-0.000348",
+          "tid": 356044705779851,
+          "cloid": "0x00000000000000000000002007046457",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "HYPE",
+          "px": "66.975",
+          "sz": "4.71",
+          "side": "A",
+          "time": 1783063777036,
+          "startPosition": "268380.44",
+          "dir": "Close Long",
+          "closedPnl": "11.945031",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 486496423270,
+          "crossed": false,
+          "fee": "-0.003154",
+          "tid": 136880487343768,
+          "cloid": "0x00000000000000000000002007046457",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "HYPE",
+          "px": "66.975",
+          "sz": "1.49",
+          "side": "A",
+          "time": 1783063777036,
+          "startPosition": "268381.93",
+          "dir": "Close Long",
+          "closedPnl": "3.778789",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 486496402449,
+          "crossed": false,
+          "fee": "-0.000997",
+          "tid": 516657381418082,
+          "cloid": "0x00000000000000000000000062828669",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "HYPE",
+          "px": "66.975",
+          "sz": "0.21",
+          "side": "A",
+          "time": 1783063775050,
+          "startPosition": "268382.14",
+          "dir": "Close Long",
+          "closedPnl": "0.532581",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 486496402449,
+          "crossed": false,
+          "fee": "-0.00014",
+          "tid": 77598407050533,
+          "cloid": "0x00000000000000000000000062828669",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "HYPE",
+          "px": "66.975",
+          "sz": "0.41",
+          "side": "A",
+          "time": 1783063774045,
+          "startPosition": "268382.55",
+          "dir": "Close Long",
+          "closedPnl": "1.039801",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 486496402333,
+          "crossed": false,
+          "fee": "-0.000274",
+          "tid": 338948873931328,
+          "cloid": "0x00000000000000000000002007046430",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "HYPE",
+          "px": "66.975",
+          "sz": "5.45",
+          "side": "A",
+          "time": 1783063772433,
+          "startPosition": "268388.0",
+          "dir": "Close Long",
+          "closedPnl": "13.821745",
+          "hash": "0x812df547c2be706282a7043f1adb3201c1000d2d5db18f3424f6a09a81b24a4d",
+          "oid": 486496396021,
+          "crossed": false,
+          "fee": "-0.00365",
+          "tid": 838957389028610,
+          "cloid": "0x00000000000000000000000062828616",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "HYPE",
+          "px": "66.97",
+          "sz": "3.04",
+          "side": "A",
+          "time": 1783063765951,
+          "startPosition": "268391.04",
+          "dir": "Close Long",
+          "closedPnl": "7.694544",
+          "hash": "0x03b2b7365129415b052c043f1adad602020c001bec2c602da77b6289102d1b45",
+          "oid": 486496387601,
+          "crossed": false,
+          "fee": "-0.002035",
+          "tid": 954707961777670,
+          "cloid": "0x00000000000000000000000062828560",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "HYPE",
+          "px": "66.98",
+          "sz": "4.44",
+          "side": "A",
+          "time": 1783063748608,
+          "startPosition": "268395.48",
+          "dir": "Close Long",
+          "closedPnl": "11.282484",
+          "hash": "0xf47a2ba815ce453df5f3043f1ad9da01d200438db0c164109842d6fad4c21f28",
+          "oid": 486496333865,
+          "crossed": false,
+          "fee": "-0.002973",
+          "tid": 325841614262794,
+          "cloid": "0x00000000000000000000002007046288",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "HYPE",
+          "px": "66.98",
+          "sz": "1.54",
+          "side": "A",
+          "time": 1783063748608,
+          "startPosition": "268397.02",
+          "dir": "Close Long",
+          "closedPnl": "3.913294",
+          "hash": "0xf47a2ba815ce453df5f3043f1ad9da01d200438db0c164109842d6fad4c21f28",
+          "oid": 486496333861,
+          "crossed": false,
+          "fee": "-0.001031",
+          "tid": 483135009459848,
+          "cloid": "0x00000000000000000000000062827957",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "HYPE",
+          "px": "66.976",
+          "sz": "0.2",
+          "side": "A",
+          "time": 1783063745003,
+          "startPosition": "268397.22",
+          "dir": "Close Long",
+          "closedPnl": "0.50742",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 486496277353,
+          "crossed": false,
+          "fee": "-0.000133",
+          "tid": 430821484074256,
+          "cloid": "0x00000000000000000000000062827511",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "HYPE",
+          "px": "66.976",
+          "sz": "0.42",
+          "side": "A",
+          "time": 1783063745003,
+          "startPosition": "268397.64",
+          "dir": "Close Long",
+          "closedPnl": "1.065582",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 486496277353,
+          "crossed": false,
+          "fee": "-0.000281",
+          "tid": 962732487748839,
+          "cloid": "0x00000000000000000000000062827511",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "XMR",
+          "px": "318.78",
+          "sz": "1.336",
+          "side": "A",
+          "time": 1783063739036,
+          "startPosition": "-19897.628",
+          "dir": "Open Short",
+          "closedPnl": "0.0",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 486496233243,
+          "crossed": false,
+          "fee": "-0.004258",
+          "tid": 72812520828605,
+          "cloid": "0x00000000000000000000000062826970",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "LIT",
+          "px": "2.0892",
+          "sz": "43.0",
+          "side": "A",
+          "time": 1783063734865,
+          "startPosition": "-1342147.0",
+          "dir": "Open Short",
+          "closedPnl": "0.0",
+          "hash": "0xd35dd3f11b73ea1bd4d7043f1ad91402014300d6b67708ed77267f43da77c406",
+          "oid": 486496239492,
+          "crossed": false,
+          "fee": "-0.000898",
+          "tid": 250637872298199,
+          "cloid": "0x00000000000000000000002007046015",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "HYPE",
+          "px": "67.039",
+          "sz": "0.18",
+          "side": "A",
+          "time": 1783063709006,
+          "startPosition": "268397.82",
+          "dir": "Close Long",
+          "closedPnl": "0.468018",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 486496092969,
+          "crossed": false,
+          "fee": "-0.00012",
+          "tid": 714375333115693,
+          "cloid": "0x00000000000000000000000062825919",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "XMR",
+          "px": "318.88",
+          "sz": "0.27",
+          "side": "A",
+          "time": 1783063706473,
+          "startPosition": "-19897.358",
+          "dir": "Open Short",
+          "closedPnl": "0.0",
+          "hash": "0x55abb86a65838d735725043f1ad77901d300d0500086ac45f97463bd2487675d",
+          "oid": 486495836706,
+          "crossed": false,
+          "fee": "-0.00086",
+          "tid": 1110898392886897,
+          "cloid": "0x00000000000000000000000062824239",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "HYPE",
+          "px": "67.035",
+          "sz": "2.11",
+          "side": "A",
+          "time": 1783063704022,
+          "startPosition": "268399.93",
+          "dir": "Close Long",
+          "closedPnl": "5.477771",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 486496074594,
+          "crossed": false,
+          "fee": "-0.001414",
+          "tid": 700388891182393,
+          "cloid": "0x00000000000000000000000062825823",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "HYPE",
+          "px": "67.038",
+          "sz": "0.18",
+          "side": "A",
+          "time": 1783063695058,
+          "startPosition": "268400.11",
+          "dir": "Close Long",
+          "closedPnl": "0.467838",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 486495990934,
+          "crossed": false,
+          "fee": "-0.00012",
+          "tid": 260028755859695,
+          "cloid": "0x00000000000000000000000062825187",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "HYPE",
+          "px": "67.038",
+          "sz": "0.42",
+          "side": "A",
+          "time": 1783063694048,
+          "startPosition": "268400.53",
+          "dir": "Close Long",
+          "closedPnl": "1.091622",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 486495990934,
+          "crossed": false,
+          "fee": "-0.000281",
+          "tid": 109960376313147,
+          "cloid": "0x00000000000000000000000062825187",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "HYPE",
+          "px": "67.038",
+          "sz": "0.3",
+          "side": "A",
+          "time": 1783063689472,
+          "startPosition": "268400.83",
+          "dir": "Close Long",
+          "closedPnl": "0.77973",
+          "hash": "0x37bd1b8d228f79d53936043f1ad67e02014a0072bd8298a7db85c6dfe18353bf",
+          "oid": 486495944602,
+          "crossed": false,
+          "fee": "-0.000201",
+          "tid": 1109534816922361,
+          "cloid": "0x00000000000000000000002007045334",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "HYPE",
+          "px": "67.038",
+          "sz": "0.52",
+          "side": "A",
+          "time": 1783063687028,
+          "startPosition": "268401.35",
+          "dir": "Close Long",
+          "closedPnl": "1.351532",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 486495944602,
+          "crossed": false,
+          "fee": "-0.000348",
+          "tid": 389376356003124,
+          "cloid": "0x00000000000000000000002007045334",
+          "feeToken": "USDC",
+          "twapId": null
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "address": "0x393d0b87ed38fc779fd9611144ae649ba6082109",
+      "displayName": null,
+      "accountValue": "963658318.0544830561",
+      "pnl": {
+        "day": {
+          "pnl": "52730678.1887890026",
+          "roi": "0.0578867913",
+          "vlm": "0.0"
+        },
+        "week": {
+          "pnl": "55248703.6244949996",
+          "roi": "0.0604754658",
+          "vlm": "0.0"
+        },
+        "month": {
+          "pnl": "0.0",
+          "roi": "0.0",
+          "vlm": "0.0"
+        },
+        "allTime": {
+          "pnl": "182390589.4144830108",
+          "roi": "0.1020355514",
+          "vlm": "0.0"
+        }
+      },
+      "openPositions": [],
+      "recentFills": []
+    },
+    {
+      "rank": 5,
+      "address": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
+      "displayName": null,
+      "accountValue": "30257727.3269810006",
+      "pnl": {
+        "day": {
+          "pnl": "-207700.645862",
+          "roi": "-0.006817585",
+          "vlm": "79080.54"
+        },
+        "week": {
+          "pnl": "-673213.068284",
+          "roi": "-0.0201374254",
+          "vlm": "9258833.5299999993"
+        },
+        "month": {
+          "pnl": "1922410.058894",
+          "roi": "0.2009878185",
+          "vlm": "49870395.7599999979"
+        },
+        "allTime": {
+          "pnl": "181561651.1156120002",
+          "roi": "0.5615226635",
+          "vlm": "4282538688.2800002098"
+        }
+      },
+      "openPositions": [
+        {
+          "coin": "BTC",
+          "szi": "14.89702",
+          "entryPx": "61867.1",
+          "positionValue": "920174.02838",
+          "unrealizedPnl": "-1462.623123",
+          "returnOnEquity": "-0.0158698455",
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "liquidationPx": null
+        },
+        {
+          "coin": "ETH",
+          "szi": "0.7856",
+          "entryPx": "1592.25",
+          "positionValue": "1348.8752",
+          "unrealizedPnl": "97.99792",
+          "returnOnEquity": "0.7834335275",
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "liquidationPx": null
+        },
+        {
+          "coin": "SOL",
+          "szi": "-27938.1",
+          "entryPx": "81.048",
+          "positionValue": "2264913.8289000001",
+          "unrealizedPnl": "-586.606721",
+          "returnOnEquity": "-0.0025906447",
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "liquidationPx": "355.9216213767"
+        },
+        {
+          "coin": "AVAX",
+          "szi": "-4528.79",
+          "entryPx": "9.5279",
+          "positionValue": "30939.334643",
+          "unrealizedPnl": "12210.777134",
+          "returnOnEquity": "1.4149183665",
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "liquidationPx": "1662.0265800406"
+        },
+        {
+          "coin": "SUI",
+          "szi": "-0.5",
+          "entryPx": "3.67761",
+          "positionValue": "0.369695",
+          "unrealizedPnl": "1.469111",
+          "returnOnEquity": "7.989483393",
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "liquidationPx": "14992060.7809466664"
+        },
+        {
+          "coin": "XRP",
+          "szi": "-249233.0",
+          "entryPx": "1.901026",
+          "positionValue": "274131.3767",
+          "unrealizedPnl": "199667.118982",
+          "returnOnEquity": "8.42835597",
+          "leverage": {
+            "type": "cross",
+            "value": 20
+          },
+          "liquidationPx": "31.9098650579"
+        },
+        {
+          "coin": "HYPE",
+          "szi": "-283464.31",
+          "entryPx": "57.7957",
+          "positionValue": "18985022.162250001",
+          "unrealizedPnl": "-2601985.992017",
+          "returnOnEquity": "-0.7941098234",
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "liquidationPx": "92.3800915254"
+        },
+        {
+          "coin": "FARTCOIN",
+          "szi": "-12662820.1999999993",
+          "entryPx": "0.24537",
+          "positionValue": "2118489.8194599999",
+          "unrealizedPnl": "988651.191752",
+          "returnOnEquity": "1.5909338974",
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "liquidationPx": "0.7592716068"
+        },
+        {
+          "coin": "PUMP",
+          "szi": "-2022108.0",
+          "entryPx": "0.006521",
+          "positionValue": "3168.643236",
+          "unrealizedPnl": "10018.695718",
+          "returnOnEquity": "3.7986040068",
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "liquidationPx": "3.7086044188"
+        }
+      ],
+      "recentFills": [
+        {
+          "coin": "AVAX",
+          "px": "6.8472",
+          "sz": "50.61",
+          "side": "B",
+          "time": 1783062888070,
+          "startPosition": "-4579.4",
+          "dir": "Close Short",
+          "closedPnl": "135.670227",
+          "hash": "0xc81ff6f571a0e717c999043f1aa90902011500db0ca405e96be8a24830a4c102",
+          "oid": 486491126099,
+          "crossed": false,
+          "fee": "0.029109",
+          "tid": 1067377895696142,
+          "cloid": "0x00000000000000000000001338360217",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "AVAX",
+          "px": "6.8472",
+          "sz": "241.48",
+          "side": "B",
+          "time": 1783062884021,
+          "startPosition": "-4820.88",
+          "dir": "Close Short",
+          "closedPnl": "647.335436",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 486491126099,
+          "crossed": false,
+          "fee": "0.13889",
+          "tid": 170737078124634,
+          "cloid": "0x00000000000000000000001338360217",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "AVAX",
+          "px": "6.8487",
+          "sz": "292.01",
+          "side": "B",
+          "time": 1783062880963,
+          "startPosition": "-5112.89",
+          "dir": "Close Short",
+          "closedPnl": "782.353192",
+          "hash": "0x350fe6e905b695d73689043f1aa8a001cb00fecea0b9b4a9d8d8923bc4ba6fc1",
+          "oid": 486490979206,
+          "crossed": false,
+          "fee": "0.16799",
+          "tid": 271617922090485,
+          "cloid": "0x00000000000000000000001338360216",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "AVAX",
+          "px": "6.8477",
+          "sz": "50.74",
+          "side": "B",
+          "time": 1783062854033,
+          "startPosition": "-5163.63",
+          "dir": "Close Short",
+          "closedPnl": "135.993348",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 486490955605,
+          "crossed": false,
+          "fee": "0.029185",
+          "tid": 7284397361370,
+          "cloid": "0x00000000000000000000001338360215",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "AVAX",
+          "px": "6.8462",
+          "sz": "241.48",
+          "side": "B",
+          "time": 1783062824019,
+          "startPosition": "-5405.11",
+          "dir": "Close Short",
+          "closedPnl": "647.576916",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 486490691292,
+          "crossed": false,
+          "fee": "0.13887",
+          "tid": 734834553978452,
+          "cloid": "0x00000000000000000000001338360214",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "AVAX",
+          "px": "6.8486",
+          "sz": "18.75",
+          "side": "B",
+          "time": 1783062816118,
+          "startPosition": "-5423.86",
+          "dir": "Close Short",
+          "closedPnl": "50.236875",
+          "hash": "0x1c21983d09317be11d9b043f1aa4ec0203470022a4349ab3bfea438fc83555cb",
+          "oid": 486490454497,
+          "crossed": false,
+          "fee": "0.010786",
+          "tid": 240200726293724,
+          "cloid": "0x00000000000000000000001338360213",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "AVAX",
+          "px": "6.8486",
+          "sz": "241.47",
+          "side": "B",
+          "time": 1783062794066,
+          "startPosition": "-5665.33",
+          "dir": "Close Short",
+          "closedPnl": "646.970571",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 486490454497,
+          "crossed": false,
+          "fee": "0.138913",
+          "tid": 229434284653887,
+          "cloid": "0x00000000000000000000001338360213",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "AVAX",
+          "px": "6.8486",
+          "sz": "31.99",
+          "side": "B",
+          "time": 1783062783011,
+          "startPosition": "-5697.32",
+          "dir": "Close Short",
+          "closedPnl": "85.710807",
+          "hash": "0xb10de805228f986bb287043f1aa30802011800eabd82b73d54d69357e1837256",
+          "oid": 486490454497,
+          "crossed": false,
+          "fee": "0.018403",
+          "tid": 1124585222742348,
+          "cloid": "0x00000000000000000000001338360213",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "AVAX",
+          "px": "6.8507",
+          "sz": "191.65",
+          "side": "B",
+          "time": 1783062764024,
+          "startPosition": "-5888.97",
+          "dir": "Close Short",
+          "closedPnl": "513.08538",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 486490314751,
+          "crossed": false,
+          "fee": "0.110286",
+          "tid": 547717717636315,
+          "cloid": "0x00000000000000000000001338360211",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "AVAX",
+          "px": "6.8477",
+          "sz": "100.07",
+          "side": "B",
+          "time": 1783062688069,
+          "startPosition": "-5989.04",
+          "dir": "Close Short",
+          "closedPnl": "268.207614",
+          "hash": "0x3670dab5769b210c37ea043f1a9dca0201b7009b119e3fdeda398608359efaf6",
+          "oid": 486489832661,
+          "crossed": true,
+          "fee": "0.191869",
+          "tid": 637131578059681,
+          "cloid": "0x00000000000000000000001338360210",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "AVAX",
+          "px": "6.8567",
+          "sz": "285.71",
+          "side": "B",
+          "time": 1783062466370,
+          "startPosition": "-6274.75",
+          "dir": "Close Short",
+          "closedPnl": "763.188552",
+          "hash": "0x4de27058930334fc4f5c043f1a91530202a9003e2e0653cef1ab1bab52070ee6",
+          "oid": 486488130119,
+          "crossed": false,
+          "fee": "0.164558",
+          "tid": 64441328476267,
+          "cloid": "0x00000000000000000000001338360195",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "AVAX",
+          "px": "6.8567",
+          "sz": "5.98",
+          "side": "B",
+          "time": 1783062465564,
+          "startPosition": "-6280.73",
+          "dir": "Close Short",
+          "closedPnl": "15.973776",
+          "hash": "0x7d90cd8a4f33e3ae7f0a043f1a91470201a0006fea370280215978dd0e37bd99",
+          "oid": 486488130119,
+          "crossed": false,
+          "fee": "0.003444",
+          "tid": 630654054625544,
+          "cloid": "0x00000000000000000000001338360195",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "AVAX",
+          "px": "6.8577",
+          "sz": "218.74",
+          "side": "B",
+          "time": 1783062462759,
+          "startPosition": "-6499.47",
+          "dir": "Close Short",
+          "closedPnl": "584.079548",
+          "hash": "0x8a5ceb6342bc16428bd6043f1a911c0201af0048ddbf35142e2596b601bff02d",
+          "oid": 486488124544,
+          "crossed": true,
+          "fee": "0.420014",
+          "tid": 902823611956952,
+          "cloid": "0x00000000000000000000001338360194",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "AVAX",
+          "px": "6.8576",
+          "sz": "72.91",
+          "side": "B",
+          "time": 1783062462759,
+          "startPosition": "-6572.38",
+          "dir": "Close Short",
+          "closedPnl": "194.691573",
+          "hash": "0x8a5ceb6342bc16428bd6043f1a911c0201af0048ddbf35142e2596b601bff02d",
+          "oid": 486488124544,
+          "crossed": true,
+          "fee": "0.139996",
+          "tid": 592158283649469,
+          "cloid": "0x00000000000000000000001338360194",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "AVAX",
+          "px": "6.8577",
+          "sz": "72.58",
+          "side": "B",
+          "time": 1783062461954,
+          "startPosition": "-6644.96",
+          "dir": "Close Short",
+          "closedPnl": "193.803116",
+          "hash": "0xf9f56631ca567e5ffb6f043f1a9110020375001765599d329dbe1184895a584a",
+          "oid": 486488116236,
+          "crossed": true,
+          "fee": "0.139364",
+          "tid": 114603098698981,
+          "cloid": "0x00000000000000000000001338360193",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "AVAX",
+          "px": "6.8577",
+          "sz": "72.91",
+          "side": "B",
+          "time": 1783062461954,
+          "startPosition": "-6717.87",
+          "dir": "Close Short",
+          "closedPnl": "194.684282",
+          "hash": "0xf9f56631ca567e5ffb6f043f1a9110020375001765599d329dbe1184895a584a",
+          "oid": 486488116236,
+          "crossed": true,
+          "fee": "0.139998",
+          "tid": 691932544554016,
+          "cloid": "0x00000000000000000000001338360193",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "AVAX",
+          "px": "6.8574",
+          "sz": "145.83",
+          "side": "B",
+          "time": 1783062461954,
+          "startPosition": "-6863.7",
+          "dir": "Close Short",
+          "closedPnl": "389.439015",
+          "hash": "0xf9f56631ca567e5ffb6f043f1a9110020375001765599d329dbe1184895a584a",
+          "oid": 486488116236,
+          "crossed": true,
+          "fee": "0.280004",
+          "tid": 286869161763884,
+          "cloid": "0x00000000000000000000001338360193",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "AVAX",
+          "px": "6.8577",
+          "sz": "119.4",
+          "side": "B",
+          "time": 1783062461016,
+          "startPosition": "-6983.1",
+          "dir": "Close Short",
+          "closedPnl": "318.82188",
+          "hash": "0xc6e44304fc184111c85d043f1a91020201b700ea971b5fe36aacee57bb1c1afc",
+          "oid": 486488048019,
+          "crossed": false,
+          "fee": "0.068779",
+          "tid": 118268284520814,
+          "cloid": "0x00000000000000000000001338360192",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "AVAX",
+          "px": "6.8547",
+          "sz": "72.94",
+          "side": "B",
+          "time": 1783062425822,
+          "startPosition": "-7056.04",
+          "dir": "Close Short",
+          "closedPnl": "194.983208",
+          "hash": "0xf0e217cc50e1e9ddf25b043f1a8efb0209ef00b1ebe508b094aac31f0fe5c3c8",
+          "oid": 486487877989,
+          "crossed": true,
+          "fee": "0.139994",
+          "tid": 338505041557370,
+          "cloid": "0x00000000000000000000001338360191",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "AVAX",
+          "px": "6.854",
+          "sz": "100.07",
+          "side": "B",
+          "time": 1783062425822,
+          "startPosition": "-7156.11",
+          "dir": "Close Short",
+          "closedPnl": "267.577173",
+          "hash": "0xf0e217cc50e1e9ddf25b043f1a8efb0209ef00b1ebe508b094aac31f0fe5c3c8",
+          "oid": 486487877989,
+          "crossed": true,
+          "fee": "0.192046",
+          "tid": 262180039399114,
+          "cloid": "0x00000000000000000000001338360191",
+          "feeToken": "USDC",
+          "twapId": null
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "address": "0xfae95f601f3a25ace60d19dbb929f2a5c57e3571",
+      "displayName": "thank you jefef",
+      "accountValue": "2401546.8160060002",
+      "pnl": {
+        "day": {
+          "pnl": "0.0",
+          "roi": "0.0",
+          "vlm": "0.0"
+        },
+        "week": {
+          "pnl": "0.0",
+          "roi": "0.0",
+          "vlm": "0.0"
+        },
+        "month": {
+          "pnl": "0.0",
+          "roi": "0.0",
+          "vlm": "0.0"
+        },
+        "allTime": {
+          "pnl": "149880310.1660059988",
+          "roi": "34.8596139345",
+          "vlm": "4655922.4699999997"
+        }
+      },
+      "openPositions": [],
+      "recentFills": [
+        {
+          "coin": "@1",
+          "px": "11.135",
+          "sz": "0.00000813",
+          "side": "A",
+          "time": 1780099200028,
+          "startPosition": "0.00000813",
+          "dir": "Spot Dust Conversion",
+          "closedPnl": "0.0",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 448443551215,
+          "crossed": true,
+          "fee": "0.0",
+          "tid": 0,
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "@4",
+          "px": "1.07124612",
+          "sz": "0.8302",
+          "side": "A",
+          "time": 1767744000119,
+          "startPosition": "0.8302",
+          "dir": "Spot Dust Conversion",
+          "closedPnl": "0.0",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 288306030782,
+          "crossed": true,
+          "fee": "0.0",
+          "tid": 0,
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "@1",
+          "px": "52.121",
+          "sz": "2.62",
+          "side": "B",
+          "time": 1740384352258,
+          "startPosition": "374237.48153011",
+          "dir": "Buy",
+          "closedPnl": "0.0",
+          "hash": "0x7a8cd32e268ffe9c916f041e5cf6cf02012100bfe46be27ed0a8ff8ca7a350a8",
+          "oid": 68639533049,
+          "crossed": false,
+          "fee": "0.00026198",
+          "tid": 839728709326578,
+          "feeToken": "HFUN",
+          "twapId": null
+        },
+        {
+          "coin": "@1",
+          "px": "52.121",
+          "sz": "19.18",
+          "side": "B",
+          "time": 1740384344775,
+          "startPosition": "374218.3034481",
+          "dir": "Buy",
+          "closedPnl": "0.0",
+          "hash": "0x06ad09398cde5161fdc3041e5cf6770202b3004b0e2a249e7286f5548aa4c5dc",
+          "oid": 68639533049,
+          "crossed": false,
+          "fee": "0.00191799",
+          "tid": 515325646963546,
+          "feeToken": "HFUN",
+          "twapId": null
+        },
+        {
+          "coin": "@1",
+          "px": "52.121",
+          "sz": "8.27",
+          "side": "B",
+          "time": 1740384338004,
+          "startPosition": "374210.03427509",
+          "dir": "Buy",
+          "closedPnl": "0.0",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 68639533049,
+          "crossed": false,
+          "fee": "0.00082699",
+          "tid": 34429737616971,
+          "feeToken": "HFUN",
+          "twapId": null
+        },
+        {
+          "coin": "@1",
+          "px": "52.121",
+          "sz": "8.26",
+          "side": "B",
+          "time": 1740384308107,
+          "startPosition": "374201.77510107",
+          "dir": "Buy",
+          "closedPnl": "0.0",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 68639533049,
+          "crossed": false,
+          "fee": "0.00082598",
+          "tid": 171466791130952,
+          "feeToken": "HFUN",
+          "twapId": null
+        },
+        {
+          "coin": "@1",
+          "px": "52.121",
+          "sz": "8.27",
+          "side": "B",
+          "time": 1740384278079,
+          "startPosition": "374193.50592806",
+          "dir": "Buy",
+          "closedPnl": "0.0",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 68639533049,
+          "crossed": false,
+          "fee": "0.00082699",
+          "tid": 887594365948225,
+          "feeToken": "HFUN",
+          "twapId": null
+        },
+        {
+          "coin": "@1",
+          "px": "52.121",
+          "sz": "8.26",
+          "side": "B",
+          "time": 1740384248045,
+          "startPosition": "374185.24675404",
+          "dir": "Buy",
+          "closedPnl": "0.0",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 68639533049,
+          "crossed": false,
+          "fee": "0.00082598",
+          "tid": 936514810688363,
+          "feeToken": "HFUN",
+          "twapId": null
+        },
+        {
+          "coin": "@1",
+          "px": "52.121",
+          "sz": "8.27",
+          "side": "B",
+          "time": 1740384218069,
+          "startPosition": "374176.97758103",
+          "dir": "Buy",
+          "closedPnl": "0.0",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 68639533049,
+          "crossed": false,
+          "fee": "0.00082699",
+          "tid": 40090625495020,
+          "feeToken": "HFUN",
+          "twapId": null
+        },
+        {
+          "coin": "@1",
+          "px": "52.121",
+          "sz": "8.26",
+          "side": "B",
+          "time": 1740384188005,
+          "startPosition": "374168.71840701",
+          "dir": "Buy",
+          "closedPnl": "0.0",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 68639533049,
+          "crossed": false,
+          "fee": "0.00082598",
+          "tid": 70088387847269,
+          "feeToken": "HFUN",
+          "twapId": null
+        },
+        {
+          "coin": "@1",
+          "px": "52.121",
+          "sz": "8.26",
+          "side": "B",
+          "time": 1740384158105,
+          "startPosition": "374160.45923299",
+          "dir": "Buy",
+          "closedPnl": "0.0",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 68639533049,
+          "crossed": false,
+          "fee": "0.00082598",
+          "tid": 966362647516384,
+          "feeToken": "HFUN",
+          "twapId": null
+        },
+        {
+          "coin": "@1",
+          "px": "52.121",
+          "sz": "8.27",
+          "side": "B",
+          "time": 1740384128070,
+          "startPosition": "374152.19005998",
+          "dir": "Buy",
+          "closedPnl": "0.0",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 68639533049,
+          "crossed": false,
+          "fee": "0.00082699",
+          "tid": 66138319844674,
+          "feeToken": "HFUN",
+          "twapId": null
+        },
+        {
+          "coin": "@1",
+          "px": "52.121",
+          "sz": "8.26",
+          "side": "B",
+          "time": 1740384098117,
+          "startPosition": "374143.93088596",
+          "dir": "Buy",
+          "closedPnl": "0.0",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 68639533049,
+          "crossed": false,
+          "fee": "0.00082598",
+          "tid": 28074135168858,
+          "feeToken": "HFUN",
+          "twapId": null
+        },
+        {
+          "coin": "@1",
+          "px": "52.121",
+          "sz": "8.27",
+          "side": "B",
+          "time": 1740384068032,
+          "startPosition": "374135.66171295",
+          "dir": "Buy",
+          "closedPnl": "0.0",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 68639533049,
+          "crossed": false,
+          "fee": "0.00082699",
+          "tid": 1065924767996372,
+          "feeToken": "HFUN",
+          "twapId": null
+        },
+        {
+          "coin": "@1",
+          "px": "52.121",
+          "sz": "8.01",
+          "side": "B",
+          "time": 1740384038048,
+          "startPosition": "374127.65251393",
+          "dir": "Buy",
+          "closedPnl": "0.0",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 68639533049,
+          "crossed": false,
+          "fee": "0.00080098",
+          "tid": 98822473854069,
+          "feeToken": "HFUN",
+          "twapId": null
+        },
+        {
+          "coin": "@1",
+          "px": "52.121",
+          "sz": "8.27",
+          "side": "B",
+          "time": 1740384008048,
+          "startPosition": "374119.38334092",
+          "dir": "Buy",
+          "closedPnl": "0.0",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 68639533049,
+          "crossed": false,
+          "fee": "0.00082699",
+          "tid": 296633701963025,
+          "feeToken": "HFUN",
+          "twapId": null
+        },
+        {
+          "coin": "@1",
+          "px": "52.121",
+          "sz": "8.26",
+          "side": "B",
+          "time": 1740383978052,
+          "startPosition": "374111.1241669",
+          "dir": "Buy",
+          "closedPnl": "0.0",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 68639533049,
+          "crossed": false,
+          "fee": "0.00082598",
+          "tid": 140138125549899,
+          "feeToken": "HFUN",
+          "twapId": null
+        },
+        {
+          "coin": "@1",
+          "px": "52.121",
+          "sz": "8.27",
+          "side": "B",
+          "time": 1740383948041,
+          "startPosition": "374102.85499389",
+          "dir": "Buy",
+          "closedPnl": "0.0",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 68639533049,
+          "crossed": false,
+          "fee": "0.00082699",
+          "tid": 643472478019733,
+          "feeToken": "HFUN",
+          "twapId": null
+        },
+        {
+          "coin": "@1",
+          "px": "52.121",
+          "sz": "8.26",
+          "side": "B",
+          "time": 1740383918103,
+          "startPosition": "374094.59581987",
+          "dir": "Buy",
+          "closedPnl": "0.0",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 68639533049,
+          "crossed": false,
+          "fee": "0.00082598",
+          "tid": 366992450536746,
+          "feeToken": "HFUN",
+          "twapId": null
+        },
+        {
+          "coin": "@1",
+          "px": "52.121",
+          "sz": "8.26",
+          "side": "B",
+          "time": 1740383888057,
+          "startPosition": "374086.33664585",
+          "dir": "Buy",
+          "closedPnl": "0.0",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 68639533049,
+          "crossed": false,
+          "fee": "0.00082598",
+          "tid": 885498298876625,
+          "feeToken": "HFUN",
+          "twapId": null
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "address": "0x9794bbbc222b6b93c1417d01aa1ff06d42e5333b",
+      "displayName": null,
+      "accountValue": "3019.04957",
+      "pnl": {
+        "day": {
+          "pnl": "178.356882",
+          "roi": "0.0627864051",
+          "vlm": "0.0"
+        },
+        "week": {
+          "pnl": "194.242092",
+          "roi": "0.0687629488",
+          "vlm": "0.0"
+        },
+        "month": {
+          "pnl": "0.0",
+          "roi": "0.0",
+          "vlm": "0.0"
+        },
+        "allTime": {
+          "pnl": "144136205.8995699883",
+          "roi": "7.5867085456",
+          "vlm": "26418407.4600000009"
+        }
+      },
+      "openPositions": [],
+      "recentFills": [
+        {
+          "coin": "@4",
+          "px": "0.98662784",
+          "sz": "0.95108",
+          "side": "A",
+          "time": 1767916800020,
+          "startPosition": "0.95108",
+          "dir": "Spot Dust Conversion",
+          "closedPnl": "0.0",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 290116911487,
+          "crossed": true,
+          "fee": "0.0",
+          "tid": 0,
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "@195",
+          "px": "0.000246",
+          "sz": "0.0037",
+          "side": "A",
+          "time": 1764806400032,
+          "startPosition": "0.0037",
+          "dir": "Spot Dust Conversion",
+          "closedPnl": "0.0",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 257319235290,
+          "crossed": true,
+          "fee": "0.0",
+          "tid": 0,
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "@107",
+          "px": "34.201",
+          "sz": "1.85",
+          "side": "B",
+          "time": 1764749775711,
+          "startPosition": "0.00000298",
+          "dir": "Buy",
+          "closedPnl": "0.0",
+          "hash": "0x1eb3fde4b6c8dae4202d0430a8f82002038400ca51cbf9b6c27ca93775ccb4ce",
+          "oid": 256553038087,
+          "crossed": true,
+          "fee": "0.00110074",
+          "tid": 1034395683764466,
+          "feeToken": "HYPE",
+          "twapId": null
+        },
+        {
+          "coin": "@195",
+          "px": "0.000456",
+          "sz": "11460.81",
+          "side": "A",
+          "time": 1764749737382,
+          "startPosition": "11460.8137",
+          "dir": "Sell",
+          "closedPnl": "-0.1260689",
+          "hash": "0x261cc18c7605e3d227960430a8f6480202d00072110902a4c9e56cdf3509bdbc",
+          "oid": 256552634711,
+          "crossed": true,
+          "fee": "0.00310954",
+          "tid": 1082001649259173,
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "@195",
+          "px": "0.000457",
+          "sz": "12500.0",
+          "side": "A",
+          "time": 1764749737382,
+          "startPosition": "23960.8137",
+          "dir": "Sell",
+          "closedPnl": "-0.12499999",
+          "hash": "0x261cc18c7605e3d227960430a8f6480202d00072110902a4c9e56cdf3509bdbc",
+          "oid": 256552634711,
+          "crossed": true,
+          "fee": "0.00339893",
+          "tid": 522993625606192,
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "@195",
+          "px": "0.000458",
+          "sz": "12500.0",
+          "side": "A",
+          "time": 1764749737382,
+          "startPosition": "36460.8137",
+          "dir": "Sell",
+          "closedPnl": "-0.11249999",
+          "hash": "0x261cc18c7605e3d227960430a8f6480202d00072110902a4c9e56cdf3509bdbc",
+          "oid": 256552634711,
+          "crossed": true,
+          "fee": "0.00340637",
+          "tid": 58975231137433,
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "@195",
+          "px": "0.000459",
+          "sz": "12500.0",
+          "side": "A",
+          "time": 1764749737382,
+          "startPosition": "48960.8137",
+          "dir": "Sell",
+          "closedPnl": "-0.09999999",
+          "hash": "0x261cc18c7605e3d227960430a8f6480202d00072110902a4c9e56cdf3509bdbc",
+          "oid": 256552634711,
+          "crossed": true,
+          "fee": "0.00341381",
+          "tid": 126688422151504,
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "@195",
+          "px": "0.00046",
+          "sz": "12500.0",
+          "side": "A",
+          "time": 1764749737382,
+          "startPosition": "61460.8137",
+          "dir": "Sell",
+          "closedPnl": "-0.08749999",
+          "hash": "0x261cc18c7605e3d227960430a8f6480202d00072110902a4c9e56cdf3509bdbc",
+          "oid": 256552634711,
+          "crossed": true,
+          "fee": "0.00342124",
+          "tid": 364035153254041,
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "@195",
+          "px": "0.000461",
+          "sz": "12500.0",
+          "side": "A",
+          "time": 1764749737382,
+          "startPosition": "73960.8137",
+          "dir": "Sell",
+          "closedPnl": "-0.07499999",
+          "hash": "0x261cc18c7605e3d227960430a8f6480202d00072110902a4c9e56cdf3509bdbc",
+          "oid": 256552634711,
+          "crossed": true,
+          "fee": "0.00342868",
+          "tid": 62698993295415,
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "@195",
+          "px": "0.000462",
+          "sz": "12500.0",
+          "side": "A",
+          "time": 1764749737382,
+          "startPosition": "86460.8137",
+          "dir": "Sell",
+          "closedPnl": "-0.06249999",
+          "hash": "0x261cc18c7605e3d227960430a8f6480202d00072110902a4c9e56cdf3509bdbc",
+          "oid": 256552634711,
+          "crossed": true,
+          "fee": "0.00343612",
+          "tid": 910290938989379,
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "@195",
+          "px": "0.000463",
+          "sz": "12500.0",
+          "side": "A",
+          "time": 1764749737382,
+          "startPosition": "98960.8137",
+          "dir": "Sell",
+          "closedPnl": "-0.04999999",
+          "hash": "0x261cc18c7605e3d227960430a8f6480202d00072110902a4c9e56cdf3509bdbc",
+          "oid": 256552634711,
+          "crossed": true,
+          "fee": "0.00344356",
+          "tid": 734909961950183,
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "@195",
+          "px": "0.000464",
+          "sz": "12500.0",
+          "side": "A",
+          "time": 1764749737382,
+          "startPosition": "111460.8137",
+          "dir": "Sell",
+          "closedPnl": "-0.03749999",
+          "hash": "0x261cc18c7605e3d227960430a8f6480202d00072110902a4c9e56cdf3509bdbc",
+          "oid": 256552634711,
+          "crossed": true,
+          "fee": "0.00345099",
+          "tid": 135291133291117,
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "@195",
+          "px": "0.000465",
+          "sz": "12500.0",
+          "side": "A",
+          "time": 1764749737382,
+          "startPosition": "123960.8137",
+          "dir": "Sell",
+          "closedPnl": "-0.02499999",
+          "hash": "0x261cc18c7605e3d227960430a8f6480202d00072110902a4c9e56cdf3509bdbc",
+          "oid": 256552634711,
+          "crossed": true,
+          "fee": "0.00345843",
+          "tid": 1035870847064427,
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "@195",
+          "px": "0.000466",
+          "sz": "12500.0",
+          "side": "A",
+          "time": 1764749737382,
+          "startPosition": "136460.8137",
+          "dir": "Sell",
+          "closedPnl": "-0.01249999",
+          "hash": "0x261cc18c7605e3d227960430a8f6480202d00072110902a4c9e56cdf3509bdbc",
+          "oid": 256552634711,
+          "crossed": true,
+          "fee": "0.00346587",
+          "tid": 432292745560571,
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "@195",
+          "px": "0.000467",
+          "sz": "749.17",
+          "side": "A",
+          "time": 1764749737382,
+          "startPosition": "137209.9837",
+          "dir": "Sell",
+          "closedPnl": "0.0",
+          "hash": "0x261cc18c7605e3d227960430a8f6480202d00072110902a4c9e56cdf3509bdbc",
+          "oid": 256552634711,
+          "crossed": true,
+          "fee": "0.00020816",
+          "tid": 747439664858551,
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "PURR/USDC",
+          "px": "0.19413",
+          "sz": "0.00003",
+          "side": "A",
+          "time": 1752710400022,
+          "startPosition": "0.00003",
+          "dir": "Spot Dust Conversion",
+          "closedPnl": "0.0",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 115310194253,
+          "crossed": true,
+          "fee": "0.0",
+          "tid": 0,
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "@119",
+          "px": "0.31807",
+          "sz": "0.01",
+          "side": "A",
+          "time": 1736380800021,
+          "startPosition": "0.01",
+          "dir": "Spot Dust Conversion",
+          "closedPnl": "0.0",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 61606060932,
+          "crossed": true,
+          "fee": "0.0",
+          "tid": 0,
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "PURR/USDC",
+          "px": "0.21865",
+          "sz": "22.0",
+          "side": "B",
+          "time": 1733916642864,
+          "startPosition": "4421908.9998199996",
+          "dir": "Buy",
+          "closedPnl": "0.0",
+          "hash": "0x031132efe5ed6c7552f70418f7103c01a00020aa94e5dd4311b437ea1bd7ae9b",
+          "oid": 54636688972,
+          "crossed": true,
+          "fee": "0.00659",
+          "tid": 33032560334619,
+          "feeToken": "PURR",
+          "twapId": null
+        },
+        {
+          "coin": "PURR/USDC",
+          "px": "0.21843",
+          "sz": "97.0",
+          "side": "B",
+          "time": 1733916642864,
+          "startPosition": "4421812.0289099999",
+          "dir": "Buy",
+          "closedPnl": "0.0",
+          "hash": "0x031132efe5ed6c7552f70418f7103c01a00020aa94e5dd4311b437ea1bd7ae9b",
+          "oid": 54636688972,
+          "crossed": true,
+          "fee": "0.02909",
+          "tid": 1053198360518635,
+          "feeToken": "PURR",
+          "twapId": null
+        },
+        {
+          "coin": "@83",
+          "px": "0.04",
+          "sz": "0.00696969",
+          "side": "A",
+          "time": 1733788800013,
+          "startPosition": "0.00696969",
+          "dir": "Spot Dust Conversion",
+          "closedPnl": "0.0",
+          "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "oid": 54083739352,
+          "crossed": true,
+          "fee": "0.0",
+          "tid": 0,
+          "feeToken": "USDC",
+          "twapId": null
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "address": "0xdfc24b077bc1425ad1dea75bcb6f8158e10df303",
+      "displayName": null,
+      "accountValue": "261776774.7175830007",
+      "pnl": {
+        "day": {
+          "pnl": "15092.251737",
+          "roi": "0.0000672257",
+          "vlm": "0.0"
+        },
+        "week": {
+          "pnl": "90321.603178",
+          "roi": "0.0003893553",
+          "vlm": "0.0"
+        },
+        "month": {
+          "pnl": "513835.199621",
+          "roi": "0.0016527556",
+          "vlm": "0.0"
+        },
+        "allTime": {
+          "pnl": "136857589.6075829864",
+          "roi": "0.2593627988",
+          "vlm": "0.0"
+        }
+      },
+      "openPositions": [],
+      "recentFills": []
+    },
+    {
+      "rank": 9,
+      "address": "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36",
+      "displayName": null,
+      "accountValue": "93681599.3332210034",
+      "pnl": {
+        "day": {
+          "pnl": "-459614.076788",
+          "roi": "-0.0048821771",
+          "vlm": "3038250.7999999998"
+        },
+        "week": {
+          "pnl": "-610654.2575160001",
+          "roi": "-0.0064761869",
+          "vlm": "8854064.8699999992"
+        },
+        "month": {
+          "pnl": "5776976.2936349995",
+          "roi": "0.2950922755",
+          "vlm": "128383739.9399999976"
+        },
+        "allTime": {
+          "pnl": "132449510.1749310046",
+          "roi": "0.933580575",
+          "vlm": "4055606638.2300000191"
+        }
+      },
+      "openPositions": [
+        {
+          "coin": "BTC",
+          "szi": "0.62802",
+          "entryPx": "71584.6",
+          "positionValue": "38792.16738",
+          "unrealizedPnl": "-6164.447723",
+          "returnOnEquity": "-0.6855996285",
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "liquidationPx": null
+        },
+        {
+          "coin": "ETH",
+          "szi": "0.5563",
+          "entryPx": "1667.9",
+          "positionValue": "955.22273",
+          "unrealizedPnl": "27.36996",
+          "returnOnEquity": "0.2949817135",
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "liquidationPx": null
+        },
+        {
+          "coin": "SOL",
+          "szi": "-733.91",
+          "entryPx": "91.5472",
+          "positionValue": "59497.34979",
+          "unrealizedPnl": "7690.084844",
+          "returnOnEquity": "0.4578287524",
+          "leverage": {
+            "type": "cross",
+            "value": 4
+          },
+          "liquidationPx": "28326.4810142375"
+        },
+        {
+          "coin": "AVAX",
+          "szi": "-0.41",
+          "entryPx": "6.5726",
+          "positionValue": "2.80112",
+          "unrealizedPnl": "-0.106354",
+          "returnOnEquity": "-0.3946687764",
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "liquidationPx": "49330006.720243901"
+        },
+        {
+          "coin": "APE",
+          "szi": "-0.1",
+          "entryPx": "0.15831",
+          "positionValue": "0.014486",
+          "unrealizedPnl": "0.001345",
+          "returnOnEquity": "0.4247994441",
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "liquidationPx": "193162091.8689818084"
+        },
+        {
+          "coin": "DOGE",
+          "szi": "-1.0",
+          "entryPx": "0.107181",
+          "positionValue": "0.075237",
+          "unrealizedPnl": "0.031944",
+          "returnOnEquity": "2.9803789851",
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "liquidationPx": "20225300.1533199996"
+        },
+        {
+          "coin": "LINK",
+          "szi": "-6.0",
+          "entryPx": "9.76609",
+          "positionValue": "46.6758",
+          "unrealizedPnl": "11.920776",
+          "returnOnEquity": "2.034380985",
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "liquidationPx": "3370890.7726127268"
+        },
+        {
+          "coin": "XRP",
+          "szi": "11459.0",
+          "entryPx": "1.394549",
+          "positionValue": "12603.7541",
+          "unrealizedPnl": "-3376.3855",
+          "returnOnEquity": "-1.0564317911",
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "liquidationPx": null
+        },
+        {
+          "coin": "HYPE",
+          "szi": "-867488.6899999999",
+          "entryPx": "66.2403",
+          "positionValue": "58109597.3883399963",
+          "unrealizedPnl": "-646873.2855990001",
+          "returnOnEquity": "-0.05628634",
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "liquidationPx": "89.2528138445"
+        },
+        {
+          "coin": "FARTCOIN",
+          "szi": "-6803285.0999999996",
+          "entryPx": "0.2474",
+          "positionValue": "1138189.59723",
+          "unrealizedPnl": "544975.597283",
+          "returnOnEquity": "3.2378022018",
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "liquidationPx": "3.1325680865"
+        },
+        {
+          "coin": "XPL",
+          "szi": "-847101.0",
+          "entryPx": "0.108604",
+          "positionValue": "83405.56446",
+          "unrealizedPnl": "8593.06934",
+          "returnOnEquity": "0.4670215733",
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "liquidationPx": "23.0576840438"
+        },
+        {
+          "coin": "ASTER",
+          "szi": "3229.0",
+          "entryPx": "1.092741",
+          "positionValue": "2063.68619",
+          "unrealizedPnl": "-1464.774549",
+          "returnOnEquity": "-1.2453939471",
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "liquidationPx": null
+        }
+      ],
+      "recentFills": [
+        {
+          "coin": "xyz:GOLD",
+          "px": "4137.3",
+          "sz": "0.207",
+          "side": "A",
+          "time": 1783037979575,
+          "startPosition": "-5471.3739",
+          "dir": "Open Short",
+          "closedPnl": "0.0",
+          "hash": "0x811f15af659244988298043f15206e0201f300950095636a24e7c10224961e83",
+          "oid": 486276155088,
+          "crossed": true,
+          "fee": "0.419646",
+          "tid": 416465104802264,
+          "cloid": "0x00000000000000000000001834200578",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "xyz:GOLD",
+          "px": "4137.4",
+          "sz": "0.752",
+          "side": "A",
+          "time": 1783037979575,
+          "startPosition": "-5470.6219",
+          "dir": "Open Short",
+          "closedPnl": "0.0",
+          "hash": "0x811f15af659244988298043f15206e0201f300950095636a24e7c10224961e83",
+          "oid": 486276155088,
+          "crossed": true,
+          "fee": "1.524549",
+          "tid": 120201952049143,
+          "cloid": "0x00000000000000000000001834200578",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "xyz:GOLD",
+          "px": "4137.4",
+          "sz": "0.036",
+          "side": "A",
+          "time": 1783037979575,
+          "startPosition": "-5470.5859",
+          "dir": "Open Short",
+          "closedPnl": "0.0",
+          "hash": "0xce4b9f144c01021ccfc5043f15206e0201f200f9e70420ee72144a670b04dc07",
+          "oid": 486276155087,
+          "crossed": true,
+          "fee": "0.072983",
+          "tid": 237457706259838,
+          "cloid": "0x00000000000000000000001834200576",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "xyz:GOLD",
+          "px": "4137.4",
+          "sz": "0.212",
+          "side": "A",
+          "time": 1783037979575,
+          "startPosition": "-5470.3739",
+          "dir": "Open Short",
+          "closedPnl": "0.0",
+          "hash": "0x1b782879327fbfa11cf1043f15206e0201f1005ecd72de73bf40d3cbf173998b",
+          "oid": 486276155086,
+          "crossed": true,
+          "fee": "0.429793",
+          "tid": 431542598242673,
+          "cloid": "0x00000000000000000000001834200577",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "xyz:GOLD",
+          "px": "4137.3",
+          "sz": "1.1624",
+          "side": "A",
+          "time": 1783037978829,
+          "startPosition": "-5469.2115",
+          "dir": "Open Short",
+          "closedPnl": "0.0",
+          "hash": "0xa07bcfbcfedc9d9ba1f5043f1520620201e300a299dfbc6d44447b0fbdd07786",
+          "oid": 486276150514,
+          "crossed": true,
+          "fee": "2.356506",
+          "tid": 498807528294802,
+          "cloid": "0x00000000000000000000001834200575",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "xyz:GOLD",
+          "px": "4137.5",
+          "sz": "0.0211",
+          "side": "A",
+          "time": 1783037978829,
+          "startPosition": "-5469.1904",
+          "dir": "Open Short",
+          "closedPnl": "0.0",
+          "hash": "0xa07bcfbcfedc9d9ba1f5043f1520620201e300a299dfbc6d44447b0fbdd07786",
+          "oid": 486276150514,
+          "crossed": true,
+          "fee": "0.042777",
+          "tid": 931884529329033,
+          "cloid": "0x00000000000000000000001834200575",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "xyz:GOLD",
+          "px": "4137.5",
+          "sz": "0.0132",
+          "side": "A",
+          "time": 1783037978829,
+          "startPosition": "-5469.1772",
+          "dir": "Open Short",
+          "closedPnl": "0.0",
+          "hash": "0xa07bcfbcfedc9d9ba1f5043f1520620201e300a299dfbc6d44447b0fbdd07786",
+          "oid": 486276150514,
+          "crossed": true,
+          "fee": "0.026761",
+          "tid": 160232657645596,
+          "cloid": "0x00000000000000000000001834200575",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "xyz:GOLD",
+          "px": "4137.7",
+          "sz": "0.0066",
+          "side": "A",
+          "time": 1783037978829,
+          "startPosition": "-5469.1706",
+          "dir": "Open Short",
+          "closedPnl": "0.0",
+          "hash": "0xa07bcfbcfedc9d9ba1f5043f1520620201e300a299dfbc6d44447b0fbdd07786",
+          "oid": 486276150514,
+          "crossed": true,
+          "fee": "0.013381",
+          "tid": 780980879653509,
+          "cloid": "0x00000000000000000000001834200575",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "xyz:GOLD",
+          "px": "4137.8",
+          "sz": "0.0057",
+          "side": "A",
+          "time": 1783037978829,
+          "startPosition": "-5469.1649",
+          "dir": "Open Short",
+          "closedPnl": "0.0",
+          "hash": "0xa07bcfbcfedc9d9ba1f5043f1520620201e300a299dfbc6d44447b0fbdd07786",
+          "oid": 486276150514,
+          "crossed": true,
+          "fee": "0.011556",
+          "tid": 742885290458808,
+          "cloid": "0x00000000000000000000001834200575",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "xyz:GOLD",
+          "px": "4137.2",
+          "sz": "0.0278",
+          "side": "A",
+          "time": 1783037905933,
+          "startPosition": "-5469.1371",
+          "dir": "Open Short",
+          "closedPnl": "0.0",
+          "hash": "0xa2ad4837c3d8e147a427043f151c400202dd001d5edc00194675f38a82dcbb32",
+          "oid": 486275376283,
+          "crossed": true,
+          "fee": "0.056356",
+          "tid": 339342958585881,
+          "cloid": "0x00000000000000000000001834200574",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "xyz:GOLD",
+          "px": "4137.3",
+          "sz": "1.0462",
+          "side": "A",
+          "time": 1783037905933,
+          "startPosition": "-5468.0909",
+          "dir": "Open Short",
+          "closedPnl": "0.0",
+          "hash": "0xa2ad4837c3d8e147a427043f151c400202dd001d5edc00194675f38a82dcbb32",
+          "oid": 486275376283,
+          "crossed": true,
+          "fee": "2.120937",
+          "tid": 541588874733518,
+          "cloid": "0x00000000000000000000001834200574",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "xyz:GOLD",
+          "px": "4137.3",
+          "sz": "0.134",
+          "side": "A",
+          "time": 1783037905933,
+          "startPosition": "-5467.9569",
+          "dir": "Open Short",
+          "closedPnl": "0.0",
+          "hash": "0xefd9d19caa479ecbf153043f151c400202dc0082454abd9e93a27cef694b78b6",
+          "oid": 486275376282,
+          "crossed": true,
+          "fee": "0.271655",
+          "tid": 612427037557694,
+          "cloid": "0x00000000000000000000001834200573",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "xyz:GOLD",
+          "px": "4136.8",
+          "sz": "0.4363",
+          "side": "A",
+          "time": 1783037905131,
+          "startPosition": "-5467.5206",
+          "dir": "Open Short",
+          "closedPnl": "0.0",
+          "hash": "0x1bb334eccb7e19c71d2c043f151c350202de00d266713899bf7be03f8a71f3b1",
+          "oid": 486275370607,
+          "crossed": true,
+          "fee": "0.884394",
+          "tid": 60263468532446,
+          "cloid": "0x00000000000000000000001834200572",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "xyz:GOLD",
+          "px": "4136.8",
+          "sz": "0.7717",
+          "side": "A",
+          "time": 1783037905131,
+          "startPosition": "-5466.7489",
+          "dir": "Open Short",
+          "closedPnl": "0.0",
+          "hash": "0x1bb334eccb7e19c71d2c043f151c350202de00d266713899bf7be03f8a71f3b1",
+          "oid": 486275370607,
+          "crossed": true,
+          "fee": "1.56426",
+          "tid": 677897255840787,
+          "cloid": "0x00000000000000000000001834200572",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "xyz:GOLD",
+          "px": "4136.8",
+          "sz": "0.148",
+          "side": "A",
+          "time": 1783037904266,
+          "startPosition": "-5466.6009",
+          "dir": "Open Short",
+          "closedPnl": "0.0",
+          "hash": "0x0a327fb4c710cc220bac043f151c280207a9009a6213eaf4adfb2b078614a60c",
+          "oid": 486275362954,
+          "crossed": true,
+          "fee": "0.3",
+          "tid": 40046283940020,
+          "cloid": "0x00000000000000000000001834200571",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "xyz:GOLD",
+          "px": "4136.8",
+          "sz": "0.399",
+          "side": "A",
+          "time": 1783037904266,
+          "startPosition": "-5466.2019",
+          "dir": "Open Short",
+          "closedPnl": "0.0",
+          "hash": "0x575f0919ad8f89a658d8043f151c280207a800ff4882a878fb27b46c6c836390",
+          "oid": 486275362953,
+          "crossed": true,
+          "fee": "0.808785",
+          "tid": 208577223532965,
+          "cloid": "0x00000000000000000000001834200569",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "xyz:GOLD",
+          "px": "4136.8",
+          "sz": "0.661",
+          "side": "A",
+          "time": 1783037904266,
+          "startPosition": "-5465.5409",
+          "dir": "Open Short",
+          "closedPnl": "0.0",
+          "hash": "0xa48b927e93fe472aa605043f151c280207a700642ef165fc48543dd152f22115",
+          "oid": 486275362952,
+          "crossed": true,
+          "fee": "1.339868",
+          "tid": 421522359058478,
+          "cloid": "0x00000000000000000000001834200570",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "xyz:GOLD",
+          "px": "4136.8",
+          "sz": "0.583",
+          "side": "A",
+          "time": 1783037903520,
+          "startPosition": "-5464.9579",
+          "dir": "Open Short",
+          "closedPnl": "0.0",
+          "hash": "0x04c05c90594b4ace063a043f151c1d02013b0075f44e69a0a88907e3184f24b8",
+          "oid": 486275356845,
+          "crossed": true,
+          "fee": "1.181759",
+          "tid": 688140361179116,
+          "cloid": "0x00000000000000000000001834200568",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "xyz:GOLD",
+          "px": "4136.8",
+          "sz": "0.09",
+          "side": "A",
+          "time": 1783037903520,
+          "startPosition": "-5464.8679",
+          "dir": "Open Short",
+          "closedPnl": "0.0",
+          "hash": "0x9f196f5a2628c5d6a093043f151c1d020139003fc12be4a842e21aace52c9fc1",
+          "oid": 486275356843,
+          "crossed": true,
+          "fee": "0.182432",
+          "tid": 667616492656111,
+          "cloid": "0x00000000000000000000001834200566",
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "xyz:GOLD",
+          "px": "4136.8",
+          "sz": "0.441",
+          "side": "A",
+          "time": 1783037903520,
+          "startPosition": "-5464.4269",
+          "dir": "Open Short",
+          "closedPnl": "0.0",
+          "hash": "0xec45f8bf0c97835aedbf043f151c1d02013800a4a79aa22c900ea411cb9b5d45",
+          "oid": 486275356842,
+          "crossed": true,
+          "fee": "0.893921",
+          "tid": 787582320328103,
+          "cloid": "0x00000000000000000000001834200565",
+          "feeToken": "USDC",
+          "twapId": null
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "address": "0x20c2d95a3dfdca9e9ad12794d5fa6fad99da44f5",
+      "displayName": null,
+      "accountValue": "2.914345",
+      "pnl": {
+        "day": {
+          "pnl": "0.02138",
+          "roi": "0.00004276",
+          "vlm": "0.0"
+        },
+        "week": {
+          "pnl": "0.0",
+          "roi": "0.0",
+          "vlm": "0.0"
+        },
+        "month": {
+          "pnl": "0.0",
+          "roi": "0.0",
+          "vlm": "0.0"
+        },
+        "allTime": {
+          "pnl": "122544571.4943450093",
+          "roi": "1.1009150257",
+          "vlm": "1534574048.5699999332"
+        }
+      },
+      "openPositions": [],
+      "recentFills": [
+        {
+          "coin": "ETH",
+          "px": "2137.4",
+          "sz": "14.3656",
+          "side": "B",
+          "time": 1779141572337,
+          "startPosition": "-14.3656",
+          "dir": "Close Short",
+          "closedPnl": "5848.810384",
+          "hash": "0x57fefff8c63adee25978043bb5469901760017de613dfdb4fbc7ab4b853eb8cc",
+          "oid": 432000553560,
+          "crossed": true,
+          "fee": "13.817265",
+          "tid": 207006216122087,
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "ETH",
+          "px": "2137.4",
+          "sz": "0.01",
+          "side": "B",
+          "time": 1779141572337,
+          "startPosition": "-14.3756",
+          "dir": "Close Short",
+          "closedPnl": "4.0714",
+          "hash": "0x57fefff8c63adee25978043bb5469901760017de613dfdb4fbc7ab4b853eb8cc",
+          "oid": 432000553560,
+          "crossed": true,
+          "fee": "0.009618",
+          "tid": 661152375295580,
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "ETH",
+          "px": "2137.4",
+          "sz": "9.3572",
+          "side": "B",
+          "time": 1779141572337,
+          "startPosition": "-23.7328",
+          "dir": "Close Short",
+          "closedPnl": "3809.690408",
+          "hash": "0x57fefff8c63adee25978043bb5469901760017de613dfdb4fbc7ab4b853eb8cc",
+          "oid": 432000553560,
+          "crossed": true,
+          "fee": "9.000035",
+          "tid": 998860150374075,
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "ETH",
+          "px": "2137.4",
+          "sz": "40.3067",
+          "side": "B",
+          "time": 1779141572337,
+          "startPosition": "-64.0395",
+          "dir": "Close Short",
+          "closedPnl": "16410.469838",
+          "hash": "0x57fefff8c63adee25978043bb5469901760017de613dfdb4fbc7ab4b853eb8cc",
+          "oid": 432000553560,
+          "crossed": true,
+          "fee": "38.768193",
+          "tid": 826405732152914,
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "ETH",
+          "px": "2137.4",
+          "sz": "0.9357",
+          "side": "B",
+          "time": 1779141572337,
+          "startPosition": "-64.9752",
+          "dir": "Close Short",
+          "closedPnl": "380.960898",
+          "hash": "0x57fefff8c63adee25978043bb5469901760017de613dfdb4fbc7ab4b853eb8cc",
+          "oid": 432000553560,
+          "crossed": true,
+          "fee": "0.899984",
+          "tid": 910463160304394,
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "ETH",
+          "px": "2137.4",
+          "sz": "2.0455",
+          "side": "B",
+          "time": 1779141572337,
+          "startPosition": "-67.0207",
+          "dir": "Close Short",
+          "closedPnl": "832.80487",
+          "hash": "0x57fefff8c63adee25978043bb5469901760017de613dfdb4fbc7ab4b853eb8cc",
+          "oid": 432000553560,
+          "crossed": true,
+          "fee": "1.967423",
+          "tid": 387584873036305,
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "ETH",
+          "px": "2137.4",
+          "sz": "0.2249",
+          "side": "B",
+          "time": 1779141572337,
+          "startPosition": "-67.2456",
+          "dir": "Close Short",
+          "closedPnl": "91.565786",
+          "hash": "0x57fefff8c63adee25978043bb5469901760017de613dfdb4fbc7ab4b853eb8cc",
+          "oid": 432000553560,
+          "crossed": true,
+          "fee": "0.216315",
+          "tid": 220157805133496,
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "ETH",
+          "px": "2138.2",
+          "sz": "2.5074",
+          "side": "B",
+          "time": 1779140521437,
+          "startPosition": "-69.753",
+          "dir": "Close Short",
+          "closedPnl": "1018.856916",
+          "hash": "0x413e87773b59e74e42b8043bb50aff02011a005cd65d0620e50732c9fa5dc138",
+          "oid": 431983241142,
+          "crossed": true,
+          "fee": "2.412595",
+          "tid": 270479973855920,
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "ETH",
+          "px": "2138.2",
+          "sz": "0.1562",
+          "side": "B",
+          "time": 1779140518545,
+          "startPosition": "-69.9092",
+          "dir": "Close Short",
+          "closedPnl": "63.470308",
+          "hash": "0xa734e943da087ce1a8ae043bb50ad30201190029750b9bb34afd9496990c56cc",
+          "oid": 431983185581,
+          "crossed": true,
+          "fee": "0.150294",
+          "tid": 17671523915234,
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "ETH",
+          "px": "2138.2",
+          "sz": "1.0528",
+          "side": "B",
+          "time": 1779140518545,
+          "startPosition": "-70.962",
+          "dir": "Close Short",
+          "closedPnl": "427.794752",
+          "hash": "0xa734e943da087ce1a8ae043bb50ad30201190029750b9bb34afd9496990c56cc",
+          "oid": 431983185581,
+          "crossed": true,
+          "fee": "1.012993",
+          "tid": 344301168823304,
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "ETH",
+          "px": "2138.2",
+          "sz": "2.0",
+          "side": "B",
+          "time": 1779140518545,
+          "startPosition": "-72.962",
+          "dir": "Close Short",
+          "closedPnl": "812.68",
+          "hash": "0xa734e943da087ce1a8ae043bb50ad30201190029750b9bb34afd9496990c56cc",
+          "oid": 431983185581,
+          "crossed": true,
+          "fee": "1.92438",
+          "tid": 843589263987107,
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "ETH",
+          "px": "2138.2",
+          "sz": "2.8604",
+          "side": "B",
+          "time": 1779140518545,
+          "startPosition": "-75.8224",
+          "dir": "Close Short",
+          "closedPnl": "1162.294936",
+          "hash": "0xa734e943da087ce1a8ae043bb50ad30201190029750b9bb34afd9496990c56cc",
+          "oid": 431983185581,
+          "crossed": true,
+          "fee": "2.752248",
+          "tid": 274105664362016,
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "ETH",
+          "px": "2138.2",
+          "sz": "2.6193",
+          "side": "B",
+          "time": 1779140518545,
+          "startPosition": "-78.4417",
+          "dir": "Close Short",
+          "closedPnl": "1064.326362",
+          "hash": "0xa734e943da087ce1a8ae043bb50ad30201190029750b9bb34afd9496990c56cc",
+          "oid": 431983185581,
+          "crossed": true,
+          "fee": "2.520264",
+          "tid": 858808274915294,
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "ETH",
+          "px": "2138.2",
+          "sz": "1.4908",
+          "side": "B",
+          "time": 1779140515054,
+          "startPosition": "-79.9325",
+          "dir": "Close Short",
+          "closedPnl": "605.771672",
+          "hash": "0xb950d04e8c47f2bfbaca043bb50aa20202920034274b11915d197ba14b4bccaa",
+          "oid": 431983123393,
+          "crossed": true,
+          "fee": "1.434432",
+          "tid": 170586506526505,
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "ETH",
+          "px": "2138.2",
+          "sz": "0.01",
+          "side": "B",
+          "time": 1779140511400,
+          "startPosition": "-79.9425",
+          "dir": "Close Short",
+          "closedPnl": "4.0634",
+          "hash": "0x0e2e1339ee0dceed0fa7043bb50a6c02029c001f8900edbfb1f6be8cad01a8d7",
+          "oid": 431983051780,
+          "crossed": true,
+          "fee": "0.009621",
+          "tid": 344493141562369,
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "ETH",
+          "px": "2138.2",
+          "sz": "0.01",
+          "side": "B",
+          "time": 1779140508202,
+          "startPosition": "-79.9525",
+          "dir": "Close Short",
+          "closedPnl": "4.0634",
+          "hash": "0x7984b05faef1782b7afe043bb50a3d0201ae004549f496fd1d4d5bb26df55216",
+          "oid": 431982976088,
+          "crossed": true,
+          "fee": "0.009621",
+          "tid": 158140317020808,
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "ETH",
+          "px": "2137.6",
+          "sz": "0.01",
+          "side": "B",
+          "time": 1779140504993,
+          "startPosition": "-79.9625",
+          "dir": "Close Short",
+          "closedPnl": "4.0694",
+          "hash": "0x3edb60c8a35fe0764055043bb50a0f02044a00ae3e52ff48e2a40c1b6253ba60",
+          "oid": 431982886754,
+          "crossed": true,
+          "fee": "0.009619",
+          "tid": 313706184683170,
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "ETH",
+          "px": "2137.4",
+          "sz": "0.01",
+          "side": "B",
+          "time": 1779140501879,
+          "startPosition": "-79.9725",
+          "dir": "Close Short",
+          "closedPnl": "4.0714",
+          "hash": "0x76c4899420c5f241783e043bb509e1019f00a179bbc911131a8d34e6dfc9cc2c",
+          "oid": 431982822150,
+          "crossed": true,
+          "fee": "0.009618",
+          "tid": 911245112225225,
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "ETH",
+          "px": "2137.4",
+          "sz": "0.01",
+          "side": "B",
+          "time": 1779140498824,
+          "startPosition": "-79.9825",
+          "dir": "Close Short",
+          "closedPnl": "4.0714",
+          "hash": "0xafc2e8242054e544b13c043bb509b60202170009bb580416538b9376df58bf2f",
+          "oid": 431982762064,
+          "crossed": true,
+          "fee": "0.009618",
+          "tid": 713332338711225,
+          "feeToken": "USDC",
+          "twapId": null
+        },
+        {
+          "coin": "ETH",
+          "px": "2137.3",
+          "sz": "1.608",
+          "side": "B",
+          "time": 1779140493023,
+          "startPosition": "-81.5905",
+          "dir": "Close Short",
+          "closedPnl": "654.84192",
+          "hash": "0x1862c74ed2613d7119dc043bb5096202018400346d645c43bc2b72a19165175b",
+          "oid": 431982673668,
+          "crossed": true,
+          "fee": "1.54655",
+          "tid": 731812883317598,
+          "feeToken": "USDC",
+          "twapId": null
+        }
+      ]
+    }
+  ]
+}
